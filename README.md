@@ -6,7 +6,7 @@
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 | 🐛 102 | 📅 2026-08-18 list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18 list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ## Table of Contents
 
@@ -98,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 |
 
 ### More
 
-* [MongoDB source code](https://github.com/mongodb/mongo) ⭐ 28,500 | 🐛 31 | 🌐 C++ | 📅 2026-08-19
+* [MongoDB source code](https://github.com/mongodb/mongo) ⭐ 28,501 | 🐛 31 | 🌐 C++ | 📅 2026-08-19
 * [MongoDB University](https://learn.mongodb.com/) - Certifications and free online courses
 * [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 |
 
 ### C
 
-* [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) ⭐ 880 | 🐛 5 | 🌐 C | 📅 2026-08-18 - Official C driver
+* [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) ⭐ 880 | 🐛 3 | 🌐 C | 📅 2026-08-19 - Official C driver
 
 ### C++
 
@@ -118,9 +118,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 |
 
 ### C#/.NET
 
-* [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) ⭐ 3,240 | 🐛 14 | 🌐 C# | 📅 2026-08-18 - Official C# driver
+* [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) ⭐ 3,241 | 🐛 14 | 🌐 C# | 📅 2026-08-18 - Official C# driver
 * [FluentStorage](https://github.com/robinrodricks/FluentStorage) ⭐ 455 | 🐛 19 | 🌐 C# | 📅 2026-08-15 - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
-* [mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) ⭐ 397 | 🐛 31 | 🌐 C# | 📅 2026-08-18 - Official Entity Framework (EF) Core provider for MongoDB
+* [mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) ⭐ 397 | 🐛 29 | 🌐 C# | 📅 2026-08-19 - Official Entity Framework (EF) Core provider for MongoDB
 * [MongoRepository](https://github.com/RobThree/MongoRepository) ⚠️ Archived - Repository abstraction layer on top of the C# driver
 
 ### D
@@ -169,10 +169,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 |
 
 ### JavaScript
 
-* [Meteor](https://github.com/meteor/meteor) ⭐ 44,809 | 🐛 409 | 🌐 JavaScript | 📅 2026-08-18 - Real-time/reactive client-server framework based on MongoDB, with lots of features
-* [Mongoose](https://github.com/Automattic/mongoose) ⭐ 27,472 | 🐛 171 | 🌐 JavaScript | 📅 2026-08-19 - Node.js asynchronous ODM
+* [Meteor](https://github.com/meteor/meteor) ⭐ 44,809 | 🐛 409 | 🌐 JavaScript | 📅 2026-08-19 - Real-time/reactive client-server framework based on MongoDB, with lots of features
+* [Mongoose](https://github.com/Automattic/mongoose) ⭐ 27,472 | 🐛 173 | 🌐 JavaScript | 📅 2026-08-19 - Node.js asynchronous ODM
 * [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) ⭐ 10,176 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-14 - Official Node.js driver
-* [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) ⭐ 7,040 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-19 - Permissions management library integrated with Mongoose
+* [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) ⭐ 7,041 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-19 - Permissions management library integrated with Mongoose
 * [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) ⭐ 5,142 | 🐛 57 | 🌐 JavaScript | 📅 2023-02-02 - Full stack based on MongoDB, Express, React and Node.js
 * [MEAN.JS](https://github.com/meanjs/mean) ⚠️ Archived - Full stack based on MongoDB, Express, AngularJS, and Node.js
 * [Typegoose](https://github.com/typegoose/typegoose) ⭐ 2,310 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-12 - Define Mongoose models using TypeScript classes
@@ -213,9 +213,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 |
 
 ### Python
 
-* [PyMongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,352 | 🐛 16 | 🌐 Python | 📅 2026-08-18 - Official Python driver
+* [PyMongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,352 | 🐛 16 | 🌐 Python | 📅 2026-08-19 - Official Python driver
 * [MongoEngine](https://github.com/MongoEngine/mongoengine) ⭐ 4,349 | 🐛 348 | 🌐 Python | 📅 2026-08-16 - ODM on top of PyMongo
-* [Beanie](https://github.com/roman-right/beanie) ⭐ 2,692 | 🐛 75 | 🌐 Python | 📅 2026-08-17 - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+* [Beanie](https://github.com/roman-right/beanie) ⭐ 2,693 | 🐛 75 | 🌐 Python | 📅 2026-08-17 - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 * [Motor](https://github.com/mongodb/motor) ⭐ 2,526 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - Official non-blocking Python driver for Tornado or asyncio
 * [Djongo](https://github.com/nesdis/djongo) ⭐ 1,921 | 🐛 357 | 🌐 Python | 📅 2026-07-18 - MongoDB connector for Django compatible with Django ORM
 * [ODMantic](https://github.com/art049/odmantic) ⭐ 1,175 | 🐛 118 | 🌐 Python | 📅 2026-05-19 - Asynchronous ODM on top of pydantic
@@ -235,7 +235,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,586 |
 
 ### Rust
 
-* [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) ⭐ 1,518 | 🐛 9 | 🌐 Rust | 📅 2026-08-19 - Official Rust driver
+* [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) ⭐ 1,518 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 - Official Rust driver
 
 ### Scala
 
@@ -275,7 +275,7 @@ Services:
 
 * [mongo-connector](https://github.com/yougov/mongo-connector) ⭐ 1,873 | 🐛 262 | 🌐 Python | 📅 2024-03-27 - Streaming replication to Elasticsearch, Solr, or MongoDB
 * [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) ⚠️ Archived - Hadoop connector
-* [mongo\_fdw](https://github.com/EnterpriseDB/mongo_fdw) ⭐ 342 | 🐛 21 | 🌐 C | 📅 2026-07-24 - PostgreSQL foreign data wrapper
+* [mongo\_fdw](https://github.com/EnterpriseDB/mongo_fdw) ⭐ 343 | 🐛 21 | 🌐 C | 📅 2026-07-24 - PostgreSQL foreign data wrapper
 * [Mongolastic](https://github.com/ozlerhakan/mongolastic) ⚠️ Archived - MongoDB to Elasticsearch (and vice-versa) migration tool
 
 Services:
@@ -293,9 +293,9 @@ Services:
 ### Desktop
 
 * [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) ⭐ 2,416 | 🐛 87 | 🌐 Objective-C | 📅 2021-05-04 - Mac native client
-* [Compass](https://github.com/mongodb-js/compass) ⭐ 1,493 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-19 - Free Cross-platform GUI from MongoDB
+* [Compass](https://github.com/mongodb-js/compass) ⭐ 1,493 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-19 - Free Cross-platform GUI from MongoDB
 * [DocKit](https://github.com/geek-fun/dockit) ⭐ 1,132 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
-* [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) ⭐ 1,102 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-19 - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
+* [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) ⭐ 1,102 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-19 - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
 * [WebDB](https://github.com/WebDB-App/app) ⭐ 332 | 🐛 25 | 🌐 TypeScript | 📅 2025-06-10 – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 * [MQLens](https://github.com/mqlens/mqlens-mongodb) ⭐ 46 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-12 - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
 * [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
@@ -331,7 +331,7 @@ Services:
 
 ### Monitoring
 
-* [Percona Monitoring and Management](https://github.com/percona/pmm) ⭐ 1,087 | 🐛 219 | 🌐 Go | 📅 2026-08-19 - Free and open-source platform for managing and monitoring databases performances
+* [Percona Monitoring and Management](https://github.com/percona/pmm) ⭐ 1,087 | 🐛 216 | 🌐 Go | 📅 2026-08-19 - Free and open-source platform for managing and monitoring databases performances
 * [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) ⭐ 342 | 🐛 97 | 🌐 Python | 📅 2025-11-03 - Nagios plugin (in Python)
 * [mongotail](https://github.com/mrsarm/mongotail) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2025-06-09 - Log all MongoDB queries in a "tail"able way
 * [mongo-munin](https://github.com/erh/mongo-munin) ⭐ 143 | 🐛 8 | 🌐 Python | 📅 2012-02-24 - Collection of Munin plugins
@@ -345,10 +345,10 @@ Services:
 
 > 💡 These tools are not necessarily made for MongoDB in particular, but support it.
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,051 | 🐛 1,008 | 🌐 TypeScript | 📅 2026-08-19 - Open-source Firebase alternative
-* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,705 | 🐛 4,478 | 🌐 TypeScript | 📅 2026-08-19 - Open-source Retool alternative
-* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 40,463 | 🐛 1,156 | 🌐 JavaScript | 📅 2026-08-19 - Open-source Retool alternative
-* [Budibase](https://github.com/Budibase/budibase) ⭐ 28,220 | 🐛 276 | 🌐 TypeScript | 📅 2026-08-19 - Open-source Retool alternative
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,056 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-08-19 - Open-source Firebase alternative
+* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,704 | 🐛 4,478 | 🌐 TypeScript | 📅 2026-08-19 - Open-source Retool alternative
+* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 40,486 | 🐛 1,154 | 🌐 JavaScript | 📅 2026-08-19 - Open-source Retool alternative
+* [Budibase](https://github.com/Budibase/budibase) ⭐ 28,221 | 🐛 275 | 🌐 TypeScript | 📅 2026-08-19 - Open-source Retool alternative
 * [ILLA Builder](https://github.com/illacloud/illa-builder) ⭐ 12,311 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27 - Open-source Retool alternative
 
 Services:
@@ -359,11 +359,11 @@ Services:
 ### Shell
 
 * [mongosh](https://github.com/mongodb-js/mongosh) ⭐ 396 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-19 - Official command-line client
-* [MongoDB Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) ⭐ 186 | 🐛 21 | 🌐 Go | 📅 2026-08-19 - Official Atlas API command-line client
+* [MongoDB Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) ⭐ 186 | 🐛 20 | 🌐 Go | 📅 2026-08-19 - Official Atlas API command-line client
 
 ### Web
 
-* [mongo-express](https://github.com/mongo-express/mongo-express) ⭐ 5,982 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-18 - Web-based admin interface built with Express
+* [mongo-express](https://github.com/mongo-express/mongo-express) ⭐ 5,983 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-18 - Web-based admin interface built with Express
 * [adminMongo](https://github.com/mrvautin/adminMongo) ⚠️ Archived - Web-based user interface to handle connections and databases needs
 * [Mongoku](https://github.com/huggingface/Mongoku) ⭐ 1,419 | 🐛 37 | 🌐 Svelte | 📅 2026-08-03 - MongoDB client for the web
 * [Rockmongo](https://github.com/iwind/rockmongo) ⚠️ Archived - PHPMyAdmin for MongoDB, sort of
@@ -377,13 +377,13 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
-* [NodeBB](https://github.com/NodeBB/NodeBB) ⭐ 15,199 | 🐛 157 | 🌐 JavaScript | 📅 2026-08-19 - Node.js based forum software ("built for the modern web")
+* [NodeBB](https://github.com/NodeBB/NodeBB) ⭐ 15,199 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-19 - Node.js based forum software ("built for the modern web")
 * [Reaction](https://github.com/reactioncommerce/reaction) ⭐ 12,399 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-01 - Event-driven, real-time commerce platform built with ES6
 * [Leanote](https://github.com/leanote/leanote) ⭐ 11,684 | 🐛 518 | 🌐 JavaScript | 📅 2023-11-27 - Evernote clone built with Go
 * [CodeCombat](https://github.com/codecombat/codecombat) ⭐ 8,546 | 🐛 415 | 🌐 JavaScript | 📅 2026-08-19 - Multiplayer programming game for learning how to code
-* [Countly](https://github.com/countly/countly-server) ⭐ 5,887 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-19 - Mobile & web analytics and marketing platform built with Node.js
+* [Countly](https://github.com/countly/countly-server) ⭐ 5,888 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-19 - Mobile & web analytics and marketing platform built with Node.js
 * [SaaS Boilerplate](https://github.com/async-labs/saas) ⭐ 4,500 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for SaaS products, built with TypeScript, React and Express
-* [Errbit](https://github.com/errbit/errbit) ⭐ 4,271 | 🐛 127 | 🌐 Ruby | 📅 2026-08-18 - A Ruby on Rails based tool for collecting and managing errors from other applications.
+* [Errbit](https://github.com/errbit/errbit) ⭐ 4,271 | 🐛 128 | 🌐 Ruby | 📅 2026-08-19 - A Ruby on Rails based tool for collecting and managing errors from other applications.
 * [uptime](https://github.com/fzaninotto/uptime) ⚠️ Archived - Remote monitoring application built with Node.js and Bootstrap
 * [WildDuck Mail Server](https://github.com/nodemailer/wildduck) ⭐ 2,109 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-19 - Scalable high availability email server that uses MongoDB for email storage
 * [GrandNode](https://github.com/grandnode/grandnode) ⚠️ Archived - Multi-platform e-commerce shopping cart built with ASP.NET
