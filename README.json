@@ -1,1635 +1,1760 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-csharp-driver",
+              "description": "Official C# driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699689,
+                "language": "C#",
+                "last_commit": "2026-08-18T22:48:47Z",
+                "owner": "mongodb",
+                "repo": "mongo-csharp-driver",
+                "stars": 3240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluentStorage",
+              "description": ".NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590351942,
+                "language": "C#",
+                "last_commit": "2026-08-15T08:45:22Z",
+                "owner": "robinrodricks",
+                "repo": "FluentStorage",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo-efcore-provider",
+              "description": "Official Entity Framework (EF) Core provider for MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639890643,
+                "language": "C#",
+                "last_commit": "2026-08-18T09:59:53Z",
+                "owner": "mongodb",
+                "repo": "mongo-efcore-provider",
+                "stars": 397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoRepository",
+              "description": "Repository abstraction layer on top of the C# driver",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30712914,
+                "language": "C#",
+                "last_commit": "2020-01-13T12:37:00Z",
+                "owner": "RobThree",
+                "repo": "MongoRepository",
+                "stars": 311
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C#/.NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alcinoe",
+              "description": "Library for Delphi that includes a MongoDB client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120072783,
+                "language": "Pascal",
+                "last_commit": "2026-07-21T16:42:59Z",
+                "owner": "MagicFoundation",
+                "repo": "Alcinoe",
+                "stars": 1125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TMongoWire",
+              "description": "Minimal community Delphi driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1128404,
+                "language": "Pascal",
+                "last_commit": "2026-03-05T17:24:39Z",
+                "owner": "stijnsanders",
+                "repo": "TMongoWire",
+                "stars": 104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Delphi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongodb",
+              "description": "Community Elixir driver",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25846077,
+                "language": "Elixir",
+                "last_commit": "2025-09-08T22:48:46Z",
+                "owner": "elixir-mongo",
+                "repo": "mongodb",
+                "stars": 565
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongodb_ecto",
+              "description": "Adapter for the Ecto database wrapper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36249824,
+                "language": "Elixir",
+                "last_commit": "2026-05-20T14:32:45Z",
+                "owner": "elixir-mongo",
+                "repo": "mongodb_ecto",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elixir-mongodb-driver",
+              "description": "Community Elixir driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180210180,
+                "language": "Elixir",
+                "last_commit": "2026-07-24T05:18:11Z",
+                "owner": "zookzook",
+                "repo": "elixir-mongodb-driver",
+                "stars": 270
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-go-driver",
+              "description": "Official Go driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81355383,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:55:13Z",
+                "owner": "mongodb",
+                "repo": "mongo-go-driver",
+                "stars": 8535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mgo",
+              "description": "Community Go driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88156832,
+                "language": "Go",
+                "last_commit": "2021-10-29T16:04:56Z",
+                "owner": "globalsign",
+                "repo": "mgo",
+                "stars": 1960
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bongo",
+              "description": "ODM based on mgo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26839307,
+                "language": "Go",
+                "last_commit": "2021-01-01T22:46:04Z",
+                "owner": "go-bongo",
+                "repo": "bongo",
+                "stars": 490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bsonic",
+              "description": "Parse Lucene-style query syntax into BSON filters for MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060494442,
+                "language": "Go",
+                "last_commit": "2026-02-22T16:35:31Z",
+                "owner": "kyle-williams-1",
+                "repo": "bsonic",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-java-driver",
+              "description": "Official Java driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108050,
+                "language": "Java",
+                "last_commit": "2026-08-18T22:25:13Z",
+                "owner": "mongodb",
+                "repo": "mongo-java-driver",
+                "stars": 2659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spring Data MongoDB",
+              "description": "Spring based, object-document support and repositories",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2566570,
+                "language": "Java",
+                "last_commit": "2026-08-13T07:21:40Z",
+                "owner": "spring-projects",
+                "repo": "spring-data-mongodb",
+                "stars": 1683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Morphia",
+              "description": "Java ODM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9677593,
+                "language": "Java",
+                "last_commit": "2026-08-18T01:05:24Z",
+                "owner": "MorphiaOrg",
+                "repo": "morphia",
+                "stars": 1676
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jongo",
+              "description": "Query in Java as in Mongo shell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3019584,
+                "language": "Java",
+                "last_commit": "2026-02-25T17:16:36Z",
+                "owner": "bguerout",
+                "repo": "jongo",
+                "stars": 586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hibernate OGM",
+              "description": "The power and simplicity of JPA for NoSQL datastores",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1608936,
+                "language": "Java",
+                "last_commit": "2025-01-14T08:33:20Z",
+                "owner": "hibernate",
+                "repo": "hibernate-ogm",
+                "stars": 325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongojack",
+              "description": "Based on Jackson, allows you to easily handle your mongo objects as POJOs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8705029,
+                "language": "Java",
+                "last_commit": "2026-05-03T20:18:06Z",
+                "owner": "mongojack",
+                "repo": "mongojack",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Morphium",
+              "description": "Java ODM and caching layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5003275,
+                "language": "Java",
+                "last_commit": "2026-08-19T07:11:18Z",
+                "owner": "sboesebeck",
+                "repo": "morphium",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meteor",
+              "description": "Real-time/reactive client-server framework based on MongoDB, with lots of features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3214406,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T17:16:09Z",
+                "owner": "meteor",
+                "repo": "meteor",
+                "stars": 44809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongoose",
+              "description": "Node.js asynchronous ODM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597879,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T04:06:05Z",
+                "owner": "Automattic",
+                "repo": "mongoose",
+                "stars": 27472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-mongodb-native",
+              "description": "Official Node.js driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462292,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T22:06:12Z",
+                "owner": "mongodb",
+                "repo": "node-mongodb-native",
+                "stars": 10176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CASL Mongoose",
+              "description": "Permissions management library integrated with Mongoose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97627474,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T04:50:35Z",
+                "owner": "stalniy",
+                "repo": "casl",
+                "stars": 7040
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MERN (mern-starter)",
+              "description": "Full stack based on MongoDB, Express, React and Node.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50668112,
+                "language": "JavaScript",
+                "last_commit": "2023-02-02T18:12:11Z",
+                "owner": "Hashnode",
+                "repo": "mern-starter",
+                "stars": 5142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MEAN.JS",
+              "description": "Full stack based on MongoDB, Express, AngularJS, and Node.js",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15508537,
+                "language": "JavaScript",
+                "last_commit": "2021-08-12T18:56:32Z",
+                "owner": "meanjs",
+                "repo": "mean",
+                "stars": 4835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Typegoose",
+              "description": "Define Mongoose models using TypeScript classes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184794628,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T10:53:50Z",
+                "owner": "typegoose",
+                "repo": "typegoose",
+                "stars": 2310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "connect-mongo",
+              "description": "MongoDB session store for Connect and Express written in Typescript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1453143,
+                "language": "TypeScript",
+                "last_commit": "2025-12-04T14:55:19Z",
+                "owner": "jdesboeufs",
+                "repo": "connect-mongo",
+                "stars": 1972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Camo",
+              "description": "Class-based ES6 ODM for Mongo-like databases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37610752,
+                "language": "JavaScript",
+                "last_commit": "2026-04-02T04:40:28Z",
+                "owner": "scottwrobinson",
+                "repo": "camo",
+                "stars": 556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deno_mongo",
+              "description": "Community Deno driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190690177,
+                "language": "TypeScript",
+                "last_commit": "2025-03-14T07:07:36Z",
+                "owner": "denodrivers",
+                "repo": "mongo",
+                "stars": 512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neuledge",
+              "description": "Universal schema-based ORM with multi-state representation for entities",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 533219944,
+                "language": "TypeScript",
+                "last_commit": "2023-11-05T06:15:17Z",
+                "owner": "neuledge",
+                "repo": "engine-js",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongration",
+              "description": "Node.js migration framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47845009,
+                "language": "JavaScript",
+                "last_commit": "2024-03-20T12:00:30Z",
+                "owner": "awapps",
+                "repo": "mongration",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monarch ORM",
+              "description": "Type-safe ODM for MongoDB with complete type inference",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805529558,
+                "language": "TypeScript",
+                "last_commit": "2026-07-05T19:56:40Z",
+                "owner": "monarch-orm",
+                "repo": "monarch",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoMQ2",
+              "description": "A general-purpose message and event queuing library for MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456220459,
+                "language": "TypeScript",
+                "last_commit": "2026-07-18T11:45:36Z",
+                "owner": "morris",
+                "repo": "mongomq2",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "driver-kotlin-coroutine",
+              "description": "Official Kotlin driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108050,
+                "language": "Java",
+                "last_commit": "2026-08-18T22:25:13Z",
+                "owner": "mongodb",
+                "repo": "mongo-java-driver",
+                "stars": 2659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kmongo",
+              "description": "Kotlin toolkit based on the Java driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58964537,
+                "language": "Kotlin",
+                "last_commit": "2026-07-23T21:53:43Z",
+                "owner": "Litote",
+                "repo": "kmongo",
+                "stars": 768
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "laravel-mongodb",
+              "description": "Official Eloquent model and query builder for Laravel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9131292,
+                "language": "PHP",
+                "last_commit": "2026-08-13T10:06:33Z",
+                "owner": "mongodb",
+                "repo": "laravel-mongodb",
+                "stars": 7073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Doctrine MongoDB ODM",
+              "description": "and MongoDB ODM Bundle for Symfony - Fully featured ORM with Symfony integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 677781,
+                "language": "PHP",
+                "last_commit": "2026-08-18T11:55:42Z",
+                "owner": "doctrine",
+                "repo": "mongodb-odm",
+                "stars": 1094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP Driver",
+              "description": "Official PHP driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19514152,
+                "language": "PHP",
+                "last_commit": "2026-08-18T12:17:54Z",
+                "owner": "mongodb",
+                "repo": "mongo-php-driver",
+                "stars": 923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo-php-adapter",
+              "description": "Adapter for applications using",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48753194,
+                "language": "PHP",
+                "last_commit": "2025-07-29T11:34:17Z",
+                "owner": "alcaeus",
+                "repo": "mongo-php-adapter",
+                "stars": 463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii-mongodb",
+              "description": "Yii 2 MongoDB extension",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14986960,
+                "language": "PHP",
+                "last_commit": "2026-08-07T00:03:29Z",
+                "owner": "yiisoft",
+                "repo": "yii2-mongodb",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoDB Bundle",
+              "description": "Integration of the official library with Symfony, without ORM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61825783,
+                "language": "PHP",
+                "last_commit": "2026-08-17T09:31:13Z",
+                "owner": "facile-it",
+                "repo": "mongodb-bundle",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "opentelemetry php auto-mongodb",
+              "description": "Automatic monitoring of MongoDB commands with OpenTelemetry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664885839,
+                "language": "PHP",
+                "last_commit": "2026-07-15T15:53:24Z",
+                "owner": "opentelemetry-php",
+                "repo": "contrib-auto-mongodb",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyMongo",
+              "description": "Official Python driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108051,
+                "language": "Python",
+                "last_commit": "2026-08-18T19:24:20Z",
+                "owner": "mongodb",
+                "repo": "mongo-python-driver",
+                "stars": 4352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoEngine",
+              "description": "ODM on top of PyMongo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3626679,
+                "language": "Python",
+                "last_commit": "2026-08-16T12:58:30Z",
+                "owner": "MongoEngine",
+                "repo": "mongoengine",
+                "stars": 4349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Beanie",
+              "description": "Asynchronous ODM based on Motor and Pydantic, which supports migrations out of the box",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341677148,
+                "language": "Python",
+                "last_commit": "2026-08-17T20:21:53Z",
+                "owner": "BeanieODM",
+                "repo": "beanie",
+                "stars": 2692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Motor",
+              "description": "Official non-blocking Python driver for Tornado or asyncio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7567432,
+                "language": "Python",
+                "last_commit": "2026-08-17T10:25:23Z",
+                "owner": "mongodb",
+                "repo": "motor",
+                "stars": 2526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Djongo",
+              "description": "MongoDB connector for Django compatible with Django ORM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97014480,
+                "language": "Python",
+                "last_commit": "2026-07-18T19:05:31Z",
+                "owner": "doableware",
+                "repo": "djongo",
+                "stars": 1921
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ODMantic",
+              "description": "Asynchronous ODM on top of pydantic",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260472474,
+                "language": "Python",
+                "last_commit": "2026-05-19T21:43:53Z",
+                "owner": "art049",
+                "repo": "odmantic",
+                "stars": 1175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TxMongo",
+              "description": "Twisted's MongoDB driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318058,
+                "language": "Python",
+                "last_commit": "2025-10-15T06:55:23Z",
+                "owner": "twisted",
+                "repo": "txmongo",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongo-Thingy",
+              "description": "Powerful schema-less ODM for MongoDB and Python (sync + async)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88879534,
+                "language": "Python",
+                "last_commit": "2026-04-13T18:43:58Z",
+                "owner": "Refty",
+                "repo": "mongo-thingy",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AtlasQ",
+              "description": "MongoDB Atlas Search wrapper with MongoEngine syntax",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496576315,
+                "language": "Python",
+                "last_commit": "2026-03-24T12:54:12Z",
+                "owner": "certego",
+                "repo": "AtlasQ",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongolite",
+              "description": "Fast and simple client for R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24347934,
+                "language": "C",
+                "last_commit": "2026-07-20T19:21:25Z",
+                "owner": "jeroen",
+                "repo": "mongolite",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mdbplyr",
+              "description": "Build MongoDB queries and aggregations as if you were using , no more head-crushing JSON fights!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1213390337,
+                "language": "R",
+                "last_commit": "2026-07-10T09:54:39Z",
+                "owner": "pbosetti",
+                "repo": "mdbplyr",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mongoid",
+              "description": "ODM framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309009,
+                "language": "Ruby",
+                "last_commit": "2026-08-14T14:32:46Z",
+                "owner": "mongodb",
+                "repo": "mongoid",
+                "stars": 3916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo-ruby-driver",
+              "description": "Official Ruby driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108125,
+                "language": "Ruby",
+                "last_commit": "2026-08-19T07:17:12Z",
+                "owner": "mongodb",
+                "repo": "mongo-ruby-driver",
+                "stars": 1432
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "driver-scala",
+              "description": "Official Scala driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108050,
+                "language": "Java",
+                "last_commit": "2026-08-18T22:25:13Z",
+                "owner": "mongodb",
+                "repo": "mongo-java-driver",
+                "stars": 2659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReactiveMongo",
+              "description": "Non-blocking Scala driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5124063,
+                "language": "Scala",
+                "last_commit": "2026-08-16T19:59:39Z",
+                "owner": "ReactiveMongo",
+                "repo": "ReactiveMongo",
+                "stars": 857
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spark-MongoDB",
+              "description": "Read/write data with Spark SQL",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30198672,
+                "language": "Scala",
+                "last_commit": "2016-08-30T13:11:22Z",
+                "owner": "Stratio",
+                "repo": "Spark-MongoDB",
+                "stars": 306
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MongoKitten",
+              "description": "Community asynchronous Swift driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50437650,
+                "language": "Swift",
+                "last_commit": "2026-05-20T16:52:15Z",
+                "owner": "orlandos-nl",
+                "repo": "MongoKitten",
+                "stars": 753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoSwift",
+              "description": "Official MongoDB Swift driver (discontinued)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 118030974,
+                "language": "Swift",
+                "last_commit": "2023-08-28T23:54:19Z",
+                "owner": "mongodb",
+                "repo": "mongo-swift-driver",
+                "stars": 346
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "mongo-csharp-driver",
-          "description": "Official C# driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-14T22:47:26Z",
-            "owner": "mongodb",
-            "repo": "mongo-csharp-driver",
-            "stars": 3242
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mtools",
+              "description": "Collection of scripts to set up test environments and visualize log files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5806020,
+                "language": "Python",
+                "last_commit": "2024-06-24T10:22:20Z",
+                "owner": "rueckstiess",
+                "repo": "mtools",
+                "stars": 1952
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nginx-gridfs",
+              "description": "Nginx module for serving files from GridFS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265935,
+                "language": "C",
+                "last_commit": "2013-12-10T14:35:03Z",
+                "owner": "mdirolf",
+                "repo": "nginx-gridfs",
+                "stars": 786
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mgob",
+              "description": "Full-featured MongoDB dockerized backup agent",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 89944219,
+                "language": "Go",
+                "last_commit": "2022-11-03T10:23:21Z",
+                "owner": "stefanprodan",
+                "repo": "mgob",
+                "stars": 760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongodb-tools",
+              "description": "Three neat Python scripts to work with collections and indexes",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2990860,
+                "language": "Python",
+                "last_commit": "2020-03-12T17:03:34Z",
+                "owner": "jwilder",
+                "repo": "mongodb-tools",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongoctl",
+              "description": "Manage MongoDB servers and replica sets using JSON configurations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4330889,
+                "language": "Python",
+                "last_commit": "2020-03-12T17:03:31Z",
+                "owner": "mongolab",
+                "repo": "mongoctl",
+                "stars": 178
+              }
+            }
+          ],
+          "description": "Services:",
+          "node_type": "group",
+          "title": "Administration"
         },
         {
-          "node_type": "item",
-          "title": "FluentStorage",
-          "description": ".NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-15T08:45:22Z",
-            "owner": "robinrodricks",
-            "repo": "FluentStorage",
-            "stars": 455
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-connector",
+              "description": "Streaming replication to Elasticsearch, Solr, or MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5362729,
+                "language": "Python",
+                "last_commit": "2024-03-27T15:59:35Z",
+                "owner": "yougov",
+                "repo": "mongo-connector",
+                "stars": 1873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo-hadoop",
+              "description": "Hadoop connector",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 856703,
+                "language": "Java",
+                "last_commit": "2022-01-28T19:28:04Z",
+                "owner": "mongodb",
+                "repo": "mongo-hadoop",
+                "stars": 1552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo_fdw",
+              "description": "PostgreSQL foreign data wrapper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20403299,
+                "language": "C",
+                "last_commit": "2026-07-24T15:10:24Z",
+                "owner": "EnterpriseDB",
+                "repo": "mongo_fdw",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongolastic",
+              "description": "MongoDB to Elasticsearch (and vice-versa) migration tool",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35897314,
+                "language": "Java",
+                "last_commit": "2021-05-21T06:41:21Z",
+                "owner": "ozlerhakan",
+                "repo": "mongolastic",
+                "stars": 138
+              }
+            }
+          ],
+          "description": "Services:",
+          "node_type": "group",
+          "title": "Data"
         },
         {
-          "node_type": "item",
-          "title": "mongo-efcore-provider",
-          "description": "Official Entity Framework (EF) Core provider for MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-13T13:03:17Z",
-            "owner": "mongodb",
-            "repo": "mongo-efcore-provider",
-            "stars": 398
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Helm Chart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 46806184,
+                "language": "Go",
+                "last_commit": "2022-02-20T14:09:39Z",
+                "owner": "helm",
+                "repo": "charts",
+                "stars": 15408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chef-mongodb",
+              "description": "Chef cookbook",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2308414,
+                "language": "Ruby",
+                "last_commit": "2017-04-12T06:27:03Z",
+                "owner": "edelight",
+                "repo": "chef-mongodb",
+                "stars": 363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ansible-role-mongodb",
+              "description": "Ansible role",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30925564,
+                "language": "Python",
+                "last_commit": "2024-04-16T10:42:09Z",
+                "owner": "UnderGreen",
+                "repo": "ansible-role-mongodb",
+                "stars": 348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "puppet-mongodb",
+              "description": "Puppet module (formerly puppetlabs-mongodb)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4118136,
+                "language": "Ruby",
+                "last_commit": "2026-04-27T12:36:22Z",
+                "owner": "voxpupuli",
+                "repo": "puppet-mongodb",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment"
         },
         {
-          "node_type": "item",
-          "title": "MongoRepository",
-          "description": "Repository abstraction layer on top of the C# driver",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2020-01-13T12:37:00Z",
-            "owner": "RobThree",
-            "repo": "MongoRepository",
-            "stars": 311
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MongoHub",
+              "description": "Mac native client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1982521,
+                "language": "Objective-C",
+                "last_commit": "2021-05-04T05:02:49Z",
+                "owner": "jeromelebel",
+                "repo": "MongoHub-Mac",
+                "stars": 2416
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compass",
+              "description": "Free Cross-platform GUI from MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31547508,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:36:58Z",
+                "owner": "mongodb-js",
+                "repo": "compass",
+                "stars": 1493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocKit",
+              "description": "Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669468498,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T05:39:35Z",
+                "owner": "geek-fun",
+                "repo": "dockit",
+                "stars": 1132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoDB MCP Server",
+              "description": "Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960484071,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:16:33Z",
+                "owner": "mongodb-js",
+                "repo": "mongodb-mcp-server",
+                "stars": 1102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebDB",
+              "description": "Web-based and open-source \"efficient database IDE\". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729848316,
+                "language": "TypeScript",
+                "last_commit": "2025-06-10T11:58:04Z",
+                "owner": "WebDB-App",
+                "repo": "app",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MQLens",
+              "description": "Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1253838600,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T19:06:47Z",
+                "owner": "mqlens",
+                "repo": "mqlens-mongodb",
+                "stars": 46
+              }
+            }
+          ],
+          "description": "Services:",
+          "node_type": "group",
+          "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Variety",
+              "description": "Schema analyzer: see what fields are in your collection and what's their content",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3769679,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T13:20:51Z",
+                "owner": "variety",
+                "repo": "variety",
+                "stars": 1765
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "migrate-mongo",
+              "description": "Database migration tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60646932,
+                "language": "JavaScript",
+                "last_commit": "2026-04-15T18:50:20Z",
+                "owner": "seppevs",
+                "repo": "migrate-mongo",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongo Seeding",
+              "description": "Node.js library, CLI and Docker image for populating databases using JS and JSON files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111328662,
+                "language": "TypeScript",
+                "last_commit": "2025-04-24T18:55:10Z",
+                "owner": "pkosiec",
+                "repo": "mongo-seeding",
+                "stars": 562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VS Code Extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226428378,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T18:46:08Z",
+                "owner": "mongodb-js",
+                "repo": "vscode",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mgodatagen",
+              "description": "Random data generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99916389,
+                "language": "Go",
+                "last_commit": "2024-12-11T23:35:27Z",
+                "owner": "feliixx",
+                "repo": "mgodatagen",
+                "stars": 328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sql-to-mongo-db-query-converter",
+              "description": "Query converter from SQL to MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68025971,
+                "language": "Java",
+                "last_commit": "2025-11-17T16:35:04Z",
+                "owner": "vincentrussell",
+                "repo": "sql-to-mongo-db-query-converter",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongo Playground",
+              "description": "Online query playground",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125003207,
+                "language": "Go",
+                "last_commit": "2025-09-23T20:17:36Z",
+                "owner": "feliixx",
+                "repo": "mongoplayground",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongoeye",
+              "description": "Schema and data analyzer: explore data in your collections",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87823770,
+                "language": "Go",
+                "last_commit": "2022-05-16T17:39:13Z",
+                "owner": "mongoeye",
+                "repo": "mongoeye",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Argon",
+              "description": "Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991697981,
+                "language": "Go",
+                "last_commit": "2026-07-09T18:49:57Z",
+                "owner": "argon-lab",
+                "repo": "argon",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C# Analyzer",
+              "description": "View the MongoDB Query API equivalents of your builder expressions in Visual Studio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417202099,
+                "language": "C#",
+                "last_commit": "2026-05-29T22:46:06Z",
+                "owner": "mongodb",
+                "repo": "mongo-csharp-analyzer",
+                "stars": 30
+              }
+            }
+          ],
+          "description": "Services:",
+          "node_type": "group",
+          "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Percona Monitoring and Management",
+              "description": "Free and open-source platform for managing and monitoring databases performances",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56446422,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:05:38Z",
+                "owner": "percona",
+                "repo": "pmm",
+                "stars": 1087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nagios-plugin-mongodb",
+              "description": "Nagios plugin (in Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713714,
+                "language": "Python",
+                "last_commit": "2025-11-03T03:28:35Z",
+                "owner": "mzupan",
+                "repo": "nagios-plugin-mongodb",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongotail",
+              "description": "Log all MongoDB queries in a \"tail\"able way",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30903710,
+                "language": "Python",
+                "last_commit": "2025-06-09T17:30:56Z",
+                "owner": "mrsarm",
+                "repo": "mongotail",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo-munin",
+              "description": "Collection of Munin plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576448,
+                "language": "Python",
+                "last_commit": "2012-02-24T00:12:10Z",
+                "owner": "erh",
+                "repo": "mongo-munin",
+                "stars": 143
+              }
+            }
+          ],
+          "description": "Services:",
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite",
+              "description": "Open-source Firebase alternative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180190854,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:39:14Z",
+                "owner": "appwrite",
+                "repo": "appwrite",
+                "stars": 57051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Appsmith",
+              "description": "Open-source Retool alternative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275993885,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:18:36Z",
+                "owner": "appsmithorg",
+                "repo": "appsmith",
+                "stars": 40705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tooljet",
+              "description": "Open-source Retool alternative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352933140,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T09:23:11Z",
+                "owner": "ToolJet",
+                "repo": "ToolJet",
+                "stars": 40463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Budibase",
+              "description": "Open-source Retool alternative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190729906,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:00:48Z",
+                "owner": "Budibase",
+                "repo": "budibase",
+                "stars": 28220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ILLA Builder",
+              "description": "Open-source Retool alternative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482719022,
+                "language": "TypeScript",
+                "last_commit": "2026-05-27T02:22:32Z",
+                "owner": "illacloud",
+                "repo": "illa-builder",
+                "stars": 12311
+              }
+            }
+          ],
+          "description": "💡 These tools are not necessarily made for MongoDB in particular, but support it.\nServices:",
+          "node_type": "group",
+          "title": "Low-Code"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongosh",
+              "description": "Official command-line client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212473529,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T00:21:30Z",
+                "owner": "mongodb-js",
+                "repo": "mongosh",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoDB Atlas CLI",
+              "description": "Official Atlas API command-line client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236735050,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:25:46Z",
+                "owner": "mongodb",
+                "repo": "mongodb-atlas-cli",
+                "stars": 186
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-express",
+              "description": "Web-based admin interface built with Express",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4117355,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T20:36:03Z",
+                "owner": "mongo-express",
+                "repo": "mongo-express",
+                "stars": 5982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adminMongo",
+              "description": "Web-based user interface to handle connections and databases needs",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49763476,
+                "language": "JavaScript",
+                "last_commit": "2024-07-27T11:12:36Z",
+                "owner": "mrvautin",
+                "repo": "adminMongo",
+                "stars": 3852
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mongoku",
+              "description": "MongoDB client for the web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121015963,
+                "language": "Svelte",
+                "last_commit": "2026-08-03T21:48:29Z",
+                "owner": "huggingface",
+                "repo": "Mongoku",
+                "stars": 1419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rockmongo",
+              "description": "PHPMyAdmin for MongoDB, sort of",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 778294,
+                "language": "PHP",
+                "last_commit": "2019-05-31T11:54:32Z",
+                "owner": "iwind",
+                "repo": "rockmongo",
+                "stars": 1036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongoadmin",
+              "description": "Admin interface built with Django",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4106049,
+                "language": "Java",
+                "last_commit": "2017-11-30T23:32:19Z",
+                "owner": "thomasst",
+                "repo": "mongoadmin",
+                "stars": 252
+              }
+            }
+          ],
+          "description": "Services:",
+          "node_type": "group",
+          "title": "Web"
         }
       ],
-      "title": "C#/.NET"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Alcinoe",
-          "description": "Library for Delphi that includes a MongoDB client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2026-07-21T16:42:59Z",
-            "owner": "MagicFoundation",
-            "repo": "Alcinoe",
-            "stars": 1125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TMongoWire",
-          "description": "Minimal community Delphi driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2026-03-05T17:24:39Z",
-            "owner": "stijnsanders",
-            "repo": "TMongoWire",
-            "stars": 104
-          }
-        }
-      ],
-      "title": "Delphi"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongodb",
-          "description": "Community Elixir driver",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Elixir",
-            "last_commit": "2025-09-08T22:48:46Z",
-            "owner": "elixir-mongo",
-            "repo": "mongodb",
-            "stars": 565
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongodb_ecto",
-          "description": "Adapter for the Ecto database wrapper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-05-20T14:32:45Z",
-            "owner": "elixir-mongo",
-            "repo": "mongodb_ecto",
-            "stars": 378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elixir-mongodb-driver",
-          "description": "Community Elixir driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-07-24T05:18:11Z",
-            "owner": "zookzook",
-            "repo": "elixir-mongodb-driver",
-            "stars": 270
-          }
-        }
-      ],
-      "title": "Elixir"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongo-go-driver",
-          "description": "Official Go driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T21:53:57Z",
-            "owner": "mongodb",
-            "repo": "mongo-go-driver",
-            "stars": 8535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mgo",
-          "description": "Community Go driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-10-29T16:04:56Z",
-            "owner": "globalsign",
-            "repo": "mgo",
-            "stars": 1960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bongo",
-          "description": "ODM based on mgo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-01-01T22:46:04Z",
-            "owner": "go-bongo",
-            "repo": "bongo",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bsonic",
-          "description": "Parse Lucene-style query syntax into BSON filters for MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-22T16:35:31Z",
-            "owner": "kyle-williams-1",
-            "repo": "bsonic",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongo-java-driver",
-          "description": "Official Java driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T18:59:49Z",
-            "owner": "mongodb",
-            "repo": "mongo-java-driver",
-            "stars": 2659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spring Data MongoDB",
-          "description": "Spring based, object-document support and repositories",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-13T07:21:40Z",
-            "owner": "spring-projects",
-            "repo": "spring-data-mongodb",
-            "stars": 1684
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Morphia",
-          "description": "Java ODM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T01:05:24Z",
-            "owner": "MorphiaOrg",
-            "repo": "morphia",
-            "stars": 1676
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jongo",
-          "description": "Query in Java as in Mongo shell",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-02-25T17:16:36Z",
-            "owner": "bguerout",
-            "repo": "jongo",
-            "stars": 586
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hibernate OGM",
-          "description": "The power and simplicity of JPA for NoSQL datastores",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2025-01-14T08:33:20Z",
-            "owner": "hibernate",
-            "repo": "hibernate-ogm",
-            "stars": 325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongojack",
-          "description": "Based on Jackson, allows you to easily handle your mongo objects as POJOs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-03T20:18:06Z",
-            "owner": "mongojack",
-            "repo": "mongojack",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Morphium",
-          "description": "Java ODM and caching layer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T09:29:16Z",
-            "owner": "sboesebeck",
-            "repo": "morphium",
-            "stars": 63
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Meteor",
-          "description": "Real-time/reactive client-server framework based on MongoDB, with lots of features",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T22:05:10Z",
-            "owner": "meteor",
-            "repo": "meteor",
-            "stars": 44810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongoose",
-          "description": "Node.js asynchronous ODM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T08:21:22Z",
-            "owner": "Automattic",
-            "repo": "mongoose",
-            "stars": 27473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-mongodb-native",
-          "description": "Official Node.js driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:06:12Z",
-            "owner": "mongodb",
-            "repo": "node-mongodb-native",
-            "stars": 10176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CASL Mongoose",
-          "description": "Permissions management library integrated with Mongoose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T02:37:38Z",
-            "owner": "stalniy",
-            "repo": "casl",
-            "stars": 7040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MERN (mern-starter)",
-          "description": "Full stack based on MongoDB, Express, React and Node.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-02T18:12:11Z",
-            "owner": "Hashnode",
-            "repo": "mern-starter",
-            "stars": 5142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MEAN.JS",
-          "description": "Full stack based on MongoDB, Express, AngularJS, and Node.js",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-08-12T18:56:32Z",
-            "owner": "meanjs",
-            "repo": "mean",
-            "stars": 4835
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Typegoose",
-          "description": "Define Mongoose models using TypeScript classes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T10:53:50Z",
-            "owner": "typegoose",
-            "repo": "typegoose",
-            "stars": 2310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "connect-mongo",
-          "description": "MongoDB session store for Connect and Express written in Typescript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-04T14:55:19Z",
-            "owner": "jdesboeufs",
-            "repo": "connect-mongo",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Camo",
-          "description": "Class-based ES6 ODM for Mongo-like databases",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-02T04:40:28Z",
-            "owner": "scottwrobinson",
-            "repo": "camo",
-            "stars": 556
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deno_mongo",
-          "description": "Community Deno driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-14T07:07:36Z",
-            "owner": "denodrivers",
-            "repo": "mongo",
-            "stars": 512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neuledge",
-          "description": "Universal schema-based ORM with multi-state representation for entities",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-11-05T06:15:17Z",
-            "owner": "neuledge",
-            "repo": "engine-js",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongration",
-          "description": "Node.js migration framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-20T12:00:30Z",
-            "owner": "awapps",
-            "repo": "mongration",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monarch ORM",
-          "description": "Type-safe ODM for MongoDB with complete type inference",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-05T19:56:40Z",
-            "owner": "monarch-orm",
-            "repo": "monarch",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoMQ2",
-          "description": "A general-purpose message and event queuing library for MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-18T11:45:36Z",
-            "owner": "morris",
-            "repo": "mongomq2",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "driver-kotlin-coroutine",
-          "description": "Official Kotlin driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T18:59:49Z",
-            "owner": "mongodb",
-            "repo": "mongo-java-driver",
-            "stars": 2659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kmongo",
-          "description": "Kotlin toolkit based on the Java driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-23T21:53:43Z",
-            "owner": "Litote",
-            "repo": "kmongo",
-            "stars": 768
-          }
-        }
-      ],
-      "title": "Kotlin"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "laravel-mongodb",
-          "description": "Official Eloquent model and query builder for Laravel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-13T10:06:33Z",
-            "owner": "mongodb",
-            "repo": "laravel-mongodb",
-            "stars": 7073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Doctrine MongoDB ODM",
-          "description": "and MongoDB ODM Bundle for Symfony - Fully featured ORM with Symfony integration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-22T22:20:15Z",
-            "owner": "doctrine",
-            "repo": "mongodb-odm",
-            "stars": 1094
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP Driver",
-          "description": "Official PHP driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-17T14:23:58Z",
-            "owner": "mongodb",
-            "repo": "mongo-php-driver",
-            "stars": 923
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongo-php-adapter",
-          "description": "Adapter for applications using",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-07-29T11:34:17Z",
-            "owner": "alcaeus",
-            "repo": "mongo-php-adapter",
-            "stars": 463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii-mongodb",
-          "description": "Yii 2 MongoDB extension",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-07T00:03:29Z",
-            "owner": "yiisoft",
-            "repo": "yii2-mongodb",
-            "stars": 330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoDB Bundle",
-          "description": "Integration of the official library with Symfony, without ORM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-17T09:31:13Z",
-            "owner": "facile-it",
-            "repo": "mongodb-bundle",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opentelemetry php auto-mongodb",
-          "description": "Automatic monitoring of MongoDB commands with OpenTelemetry",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-15T15:53:24Z",
-            "owner": "opentelemetry-php",
-            "repo": "contrib-auto-mongodb",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PyMongo",
-          "description": "Official Python driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T02:06:28Z",
-            "owner": "mongodb",
-            "repo": "mongo-python-driver",
-            "stars": 4352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoEngine",
-          "description": "ODM on top of PyMongo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T12:58:30Z",
-            "owner": "MongoEngine",
-            "repo": "mongoengine",
-            "stars": 4349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Beanie",
-          "description": "Asynchronous ODM based on Motor and Pydantic, which supports migrations out of the box",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T20:21:53Z",
-            "owner": "BeanieODM",
-            "repo": "beanie",
-            "stars": 2692
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Motor",
-          "description": "Official non-blocking Python driver for Tornado or asyncio",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T10:25:23Z",
-            "owner": "mongodb",
-            "repo": "motor",
-            "stars": 2526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Djongo",
-          "description": "MongoDB connector for Django compatible with Django ORM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-18T19:05:31Z",
-            "owner": "doableware",
-            "repo": "djongo",
-            "stars": 1921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ODMantic",
-          "description": "Asynchronous ODM on top of pydantic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T21:43:53Z",
-            "owner": "art049",
-            "repo": "odmantic",
-            "stars": 1175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TxMongo",
-          "description": "Twisted's MongoDB driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-15T06:55:23Z",
-            "owner": "twisted",
-            "repo": "txmongo",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongo-Thingy",
-          "description": "Powerful schema-less ODM for MongoDB and Python (sync + async)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T18:43:58Z",
-            "owner": "Refty",
-            "repo": "mongo-thingy",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AtlasQ",
-          "description": "MongoDB Atlas Search wrapper with MongoEngine syntax",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-24T12:54:12Z",
-            "owner": "certego",
-            "repo": "AtlasQ",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongolite",
-          "description": "Fast and simple client for R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-20T19:21:25Z",
-            "owner": "jeroen",
-            "repo": "mongolite",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mdbplyr",
-          "description": "Build MongoDB queries and aggregations as if you were using , no more head-crushing JSON fights!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-10T09:54:39Z",
-            "owner": "pbosetti",
-            "repo": "mdbplyr",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "R"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mongoid",
-          "description": "ODM framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-14T14:32:46Z",
-            "owner": "mongodb",
-            "repo": "mongoid",
-            "stars": 3916
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongo-ruby-driver",
-          "description": "Official Ruby driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-14T14:31:18Z",
-            "owner": "mongodb",
-            "repo": "mongo-ruby-driver",
-            "stars": 1432
-          }
-        }
-      ],
-      "title": "Ruby"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "driver-scala",
-          "description": "Official Scala driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T18:59:49Z",
-            "owner": "mongodb",
-            "repo": "mongo-java-driver",
-            "stars": 2659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReactiveMongo",
-          "description": "Non-blocking Scala driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-16T19:59:39Z",
-            "owner": "ReactiveMongo",
-            "repo": "ReactiveMongo",
-            "stars": 857
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spark-MongoDB",
-          "description": "Read/write data with Spark SQL",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Scala",
-            "last_commit": "2016-08-30T13:11:22Z",
-            "owner": "Stratio",
-            "repo": "Spark-MongoDB",
-            "stars": 306
-          }
-        }
-      ],
-      "title": "Scala"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MongoKitten",
-          "description": "Community asynchronous Swift driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-20T16:52:15Z",
-            "owner": "orlandos-nl",
-            "repo": "MongoKitten",
-            "stars": 753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoSwift",
-          "description": "Official MongoDB Swift driver (discontinued)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2023-08-28T23:54:19Z",
-            "owner": "mongodb",
-            "repo": "mongo-swift-driver",
-            "stars": 346
-          }
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mtools",
-          "description": "Collection of scripts to set up test environments and visualize log files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-24T10:22:20Z",
-            "owner": "rueckstiess",
-            "repo": "mtools",
-            "stars": 1952
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nginx-gridfs",
-          "description": "Nginx module for serving files from GridFS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2013-12-10T14:35:03Z",
-            "owner": "mdirolf",
-            "repo": "nginx-gridfs",
-            "stars": 786
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mgob",
-          "description": "Full-featured MongoDB dockerized backup agent",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-11-03T10:23:21Z",
-            "owner": "stefanprodan",
-            "repo": "mgob",
-            "stars": 760
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongodb-tools",
-          "description": "Three neat Python scripts to work with collections and indexes",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-03-12T17:03:34Z",
-            "owner": "jwilder",
-            "repo": "mongodb-tools",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongoctl",
-          "description": "Manage MongoDB servers and replica sets using JSON configurations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-03-12T17:03:31Z",
-            "owner": "mongolab",
-            "repo": "mongoctl",
-            "stars": 178
-          }
-        }
-      ],
-      "title": "Administration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongo-connector",
-          "description": "Streaming replication to Elasticsearch, Solr, or MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-27T15:59:35Z",
-            "owner": "yougov",
-            "repo": "mongo-connector",
-            "stars": 1873
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongo-hadoop",
-          "description": "Hadoop connector",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-01-28T19:28:04Z",
-            "owner": "mongodb",
-            "repo": "mongo-hadoop",
-            "stars": 1552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongo_fdw",
-          "description": "PostgreSQL foreign data wrapper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-24T15:10:24Z",
-            "owner": "EnterpriseDB",
-            "repo": "mongo_fdw",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongolastic",
-          "description": "MongoDB to Elasticsearch (and vice-versa) migration tool",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-05-21T06:41:21Z",
-            "owner": "ozlerhakan",
-            "repo": "mongolastic",
-            "stars": 138
-          }
-        }
-      ],
-      "title": "Data"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Helm Chart",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-02-20T14:09:39Z",
-            "owner": "helm",
-            "repo": "charts",
-            "stars": 15408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chef-mongodb",
-          "description": "Chef cookbook",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2017-04-12T06:27:03Z",
-            "owner": "edelight",
-            "repo": "chef-mongodb",
-            "stars": 363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ansible-role-mongodb",
-          "description": "Ansible role",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-16T10:42:09Z",
-            "owner": "UnderGreen",
-            "repo": "ansible-role-mongodb",
-            "stars": 348
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "puppet-mongodb",
-          "description": "Puppet module (formerly puppetlabs-mongodb)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-04-27T12:36:22Z",
-            "owner": "voxpupuli",
-            "repo": "puppet-mongodb",
-            "stars": 90
-          }
-        }
-      ],
-      "title": "Deployment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MongoHub",
-          "description": "Mac native client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-05-04T05:02:49Z",
-            "owner": "jeromelebel",
-            "repo": "MongoHub-Mac",
-            "stars": 2416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Compass",
-          "description": "Free Cross-platform GUI from MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T09:08:23Z",
-            "owner": "mongodb-js",
-            "repo": "compass",
-            "stars": 1493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocKit",
-          "description": "Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T05:39:35Z",
-            "owner": "geek-fun",
-            "repo": "dockit",
-            "stars": 1131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoDB MCP Server",
-          "description": "Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T08:50:08Z",
-            "owner": "mongodb-js",
-            "repo": "mongodb-mcp-server",
-            "stars": 1102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebDB",
-          "description": "Web-based and open-source \"efficient database IDE\". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-10T11:58:04Z",
-            "owner": "WebDB-App",
-            "repo": "app",
-            "stars": 332
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQLens",
-          "description": "Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T19:06:47Z",
-            "owner": "mqlens",
-            "repo": "mqlens-mongodb",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Desktop"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Variety",
-          "description": "Schema analyzer: see what fields are in your collection and what's their content",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T13:20:51Z",
-            "owner": "variety",
-            "repo": "variety",
-            "stars": 1765
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "migrate-mongo",
-          "description": "Database migration tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-15T18:50:20Z",
-            "owner": "seppevs",
-            "repo": "migrate-mongo",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongo Seeding",
-          "description": "Node.js library, CLI and Docker image for populating databases using JS and JSON files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-24T18:55:10Z",
-            "owner": "pkosiec",
-            "repo": "mongo-seeding",
-            "stars": 562
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VS Code Extension",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T18:46:08Z",
-            "owner": "mongodb-js",
-            "repo": "vscode",
-            "stars": 361
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mgodatagen",
-          "description": "Random data generator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-12-11T23:35:27Z",
-            "owner": "feliixx",
-            "repo": "mgodatagen",
-            "stars": 328
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sql-to-mongo-db-query-converter",
-          "description": "Query converter from SQL to MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-11-17T16:35:04Z",
-            "owner": "vincentrussell",
-            "repo": "sql-to-mongo-db-query-converter",
-            "stars": 319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongo Playground",
-          "description": "Online query playground",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-09-23T20:17:36Z",
-            "owner": "feliixx",
-            "repo": "mongoplayground",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongoeye",
-          "description": "Schema and data analyzer: explore data in your collections",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-05-16T17:39:13Z",
-            "owner": "mongoeye",
-            "repo": "mongoeye",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Argon",
-          "description": "Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-09T18:49:57Z",
-            "owner": "argon-lab",
-            "repo": "argon",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C# Analyzer",
-          "description": "View the MongoDB Query API equivalents of your builder expressions in Visual Studio",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-29T22:46:06Z",
-            "owner": "mongodb",
-            "repo": "mongo-csharp-analyzer",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Percona Monitoring and Management",
-          "description": "Free and open-source platform for managing and monitoring databases performances",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:32:24Z",
-            "owner": "percona",
-            "repo": "pmm",
-            "stars": 1084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios-plugin-mongodb",
-          "description": "Nagios plugin (in Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-03T03:28:35Z",
-            "owner": "mzupan",
-            "repo": "nagios-plugin-mongodb",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongotail",
-          "description": "Log all MongoDB queries in a \"tail\"able way",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-09T17:30:56Z",
-            "owner": "mrsarm",
-            "repo": "mongotail",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongo-munin",
-          "description": "Collection of Munin plugins",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2012-02-24T00:12:10Z",
-            "owner": "erh",
-            "repo": "mongo-munin",
-            "stars": 143
-          }
-        }
-      ],
-      "title": "Monitoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Appwrite",
-          "description": "Open-source Firebase alternative",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T08:43:49Z",
-            "owner": "appwrite",
-            "repo": "appwrite",
-            "stars": 57041
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Appsmith",
-          "description": "Open-source Retool alternative",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T08:03:24Z",
-            "owner": "appsmithorg",
-            "repo": "appsmith",
-            "stars": 40689
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tooljet",
-          "description": "Open-source Retool alternative",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T09:34:54Z",
-            "owner": "ToolJet",
-            "repo": "ToolJet",
-            "stars": 40423
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Budibase",
-          "description": "Open-source Retool alternative",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T09:38:50Z",
-            "owner": "Budibase",
-            "repo": "budibase",
-            "stars": 28213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ILLA Builder",
-          "description": "Open-source Retool alternative",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-27T02:22:32Z",
-            "owner": "illacloud",
-            "repo": "illa-builder",
-            "stars": 12310
-          }
-        }
-      ],
-      "title": "Low-Code"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongosh",
-          "description": "Official command-line client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T08:56:39Z",
-            "owner": "mongodb-js",
-            "repo": "mongosh",
-            "stars": 396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoDB Atlas CLI",
-          "description": "Official Atlas API command-line client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:53:23Z",
-            "owner": "mongodb",
-            "repo": "mongodb-atlas-cli",
-            "stars": 186
-          }
-        }
-      ],
-      "title": "Shell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongo-express",
-          "description": "Web-based admin interface built with Express",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T06:39:49Z",
-            "owner": "mongo-express",
-            "repo": "mongo-express",
-            "stars": 5981
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adminMongo",
-          "description": "Web-based user interface to handle connections and databases needs",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-07-27T11:12:36Z",
-            "owner": "mrvautin",
-            "repo": "adminMongo",
-            "stars": 3852
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongoku",
-          "description": "MongoDB client for the web",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Svelte",
-            "last_commit": "2026-08-03T21:48:29Z",
-            "owner": "huggingface",
-            "repo": "Mongoku",
-            "stars": 1419
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rockmongo",
-          "description": "PHPMyAdmin for MongoDB, sort of",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2019-05-31T11:54:32Z",
-            "owner": "iwind",
-            "repo": "rockmongo",
-            "stars": 1036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongoadmin",
-          "description": "Admin interface built with Django",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-11-30T23:32:19Z",
-            "owner": "thomasst",
-            "repo": "mongoadmin",
-            "stars": 252
-          }
-        }
-      ],
-      "title": "Web"
     },
     {
       "description": "Those open-source applications have MongoDB somewhere in their stack:",
@@ -1641,11 +1766,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9603889,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T09:08:07Z",
+            "last_commit": "2026-08-19T09:07:52Z",
             "owner": "NodeBB",
             "repo": "NodeBB",
-            "stars": 15197
+            "stars": 15199
           }
         },
         {
@@ -1655,6 +1781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12926963,
             "language": "JavaScript",
             "last_commit": "2026-03-01T22:35:00Z",
             "owner": "reactioncommerce",
@@ -1669,6 +1796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19448700,
             "language": "JavaScript",
             "last_commit": "2023-11-27T06:36:09Z",
             "owner": "leanote",
@@ -1683,11 +1811,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15193430,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T09:36:41Z",
+            "last_commit": "2026-08-19T09:31:34Z",
             "owner": "codecombat",
             "repo": "codecombat",
-            "stars": 8543
+            "stars": 8546
           }
         },
         {
@@ -1697,8 +1826,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T01:22:58Z",
+            "last_commit": "2026-08-19T07:25:18Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5887
@@ -1711,6 +1841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128308007,
             "language": "TypeScript",
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
@@ -1725,11 +1856,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-15T13:12:27Z",
+            "last_commit": "2026-08-18T12:05:49Z",
             "owner": "errbit",
             "repo": "errbit",
-            "stars": 4270
+            "stars": 4271
           }
         },
         {
@@ -1739,6 +1871,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3100494,
             "language": "JavaScript",
             "last_commit": "2021-10-01T11:20:04Z",
             "owner": "fzaninotto",
@@ -1753,8 +1886,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84003203,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T07:17:40Z",
+            "last_commit": "2026-08-19T09:32:36Z",
             "owner": "zone-eu",
             "repo": "wildduck",
             "stars": 2109
@@ -1767,11 +1901,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47261966,
             "language": "C#",
             "last_commit": "2021-08-25T14:50:10Z",
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1898
+            "stars": 1897
           }
         },
         {
@@ -1781,6 +1916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173827642,
             "language": "TypeScript",
             "last_commit": "2025-10-16T05:42:41Z",
             "owner": "fictionco",
@@ -1795,11 +1931,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 483825268,
             "language": "TypeScript",
             "last_commit": "2026-07-13T12:28:53Z",
             "owner": "aelassas",
             "repo": "bookcars",
-            "stars": 623
+            "stars": 624
           }
         },
         {
@@ -1809,6 +1946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1164156051,
             "language": "Go",
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
@@ -1818,15 +1956,10 @@
         }
       ],
       "title": "Applications"
-    },
-    {
-      "description": "To the extent possible under law, Guillaume Gelin has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:38:50.371Z",
+    "last_updated": "2026-08-19T09:39:16.287Z",
     "original_repository": "ramnes/awesome-mongodb",
     "original_repository_sha": "655c499612284edc10cdc2e56271b476c7ae7481",
     "enhanced_repository": "enhansome/enhansome-mongodb",
