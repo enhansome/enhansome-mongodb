@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 639890643,
                 "language": "C#",
-                "last_commit": "2026-08-20T18:52:22Z",
+                "last_commit": "2026-08-21T10:56:38Z",
                 "owner": "mongodb",
                 "repo": "mongo-efcore-provider",
                 "stars": 397
@@ -62,7 +62,7 @@
                 "last_commit": "2020-01-13T12:37:00Z",
                 "owner": "RobThree",
                 "repo": "MongoRepository",
-                "stars": 311
+                "stars": 312
               }
             }
           ],
@@ -81,7 +81,7 @@
                 "archived": false,
                 "id": 120072783,
                 "language": "Pascal",
-                "last_commit": "2026-08-20T20:34:57Z",
+                "last_commit": "2026-08-21T12:56:08Z",
                 "owner": "MagicFoundation",
                 "repo": "Alcinoe",
                 "stars": 1125
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-20T23:07:39Z",
                 "owner": "mongodb",
                 "repo": "mongo-go-driver",
-                "stars": 8535
+                "stars": 8538
               }
             },
             {
@@ -237,7 +237,7 @@
                 "archived": false,
                 "id": 108050,
                 "language": "Java",
-                "last_commit": "2026-08-18T22:25:13Z",
+                "last_commit": "2026-08-22T07:37:03Z",
                 "owner": "mongodb",
                 "repo": "mongo-java-driver",
                 "stars": 2659
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 9677593,
                 "language": "Java",
-                "last_commit": "2026-08-21T03:40:00Z",
+                "last_commit": "2026-08-21T10:00:33Z",
                 "owner": "MorphiaOrg",
                 "repo": "morphia",
                 "stars": 1676
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 5003275,
                 "language": "Java",
-                "last_commit": "2026-08-21T09:30:29Z",
+                "last_commit": "2026-08-21T21:16:34Z",
                 "owner": "sboesebeck",
                 "repo": "morphium",
                 "stars": 63
@@ -349,7 +349,7 @@
                 "archived": false,
                 "id": 3214406,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T22:21:02Z",
+                "last_commit": "2026-08-22T02:21:05Z",
                 "owner": "meteor",
                 "repo": "meteor",
                 "stars": 44809
@@ -364,10 +364,10 @@
                 "archived": false,
                 "id": 597879,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T15:43:12Z",
+                "last_commit": "2026-08-21T21:41:00Z",
                 "owner": "Automattic",
                 "repo": "mongoose",
-                "stars": 27471
+                "stars": 27472
               }
             },
             {
@@ -379,7 +379,7 @@
                 "archived": false,
                 "id": 462292,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T01:51:33Z",
+                "last_commit": "2026-08-21T21:46:01Z",
                 "owner": "mongodb",
                 "repo": "node-mongodb-native",
                 "stars": 10175
@@ -412,7 +412,7 @@
                 "last_commit": "2023-02-02T18:12:11Z",
                 "owner": "Hashnode",
                 "repo": "mern-starter",
-                "stars": 5142
+                "stars": 5143
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2026-08-12T10:53:50Z",
                 "owner": "typegoose",
                 "repo": "typegoose",
-                "stars": 2310
+                "stars": 2311
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-04-02T04:40:28Z",
                 "owner": "scottwrobinson",
                 "repo": "camo",
-                "stars": 556
+                "stars": 555
               }
             },
             {
@@ -566,7 +566,7 @@
                 "archived": false,
                 "id": 108050,
                 "language": "Java",
-                "last_commit": "2026-08-18T22:25:13Z",
+                "last_commit": "2026-08-22T07:37:03Z",
                 "owner": "mongodb",
                 "repo": "mongo-java-driver",
                 "stars": 2659
@@ -603,7 +603,7 @@
                 "archived": false,
                 "id": 9131292,
                 "language": "PHP",
-                "last_commit": "2026-08-13T10:06:33Z",
+                "last_commit": "2026-08-21T16:24:31Z",
                 "owner": "mongodb",
                 "repo": "laravel-mongodb",
                 "stars": 7073
@@ -715,7 +715,7 @@
                 "archived": false,
                 "id": 108051,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:53:56Z",
+                "last_commit": "2026-08-21T18:01:20Z",
                 "owner": "mongodb",
                 "repo": "mongo-python-driver",
                 "stars": 4351
@@ -745,7 +745,7 @@
                 "archived": false,
                 "id": 341677148,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:21:53Z",
+                "last_commit": "2026-08-22T08:31:20Z",
                 "owner": "BeanieODM",
                 "repo": "beanie",
                 "stars": 2692
@@ -894,10 +894,10 @@
                 "archived": false,
                 "id": 309009,
                 "language": "Ruby",
-                "last_commit": "2026-08-14T14:32:46Z",
+                "last_commit": "2026-08-21T15:19:38Z",
                 "owner": "mongodb",
                 "repo": "mongoid",
-                "stars": 3914
+                "stars": 3913
               }
             },
             {
@@ -912,7 +912,7 @@
                 "last_commit": "2026-08-19T07:17:12Z",
                 "owner": "mongodb",
                 "repo": "mongo-ruby-driver",
-                "stars": 1432
+                "stars": 1431
               }
             }
           ],
@@ -931,7 +931,7 @@
                 "archived": false,
                 "id": 108050,
                 "language": "Java",
-                "last_commit": "2026-08-18T22:25:13Z",
+                "last_commit": "2026-08-22T07:37:03Z",
                 "owner": "mongodb",
                 "repo": "mongo-java-driver",
                 "stars": 2659
@@ -1178,7 +1178,7 @@
                 "last_commit": "2022-02-20T14:09:39Z",
                 "owner": "helm",
                 "repo": "charts",
-                "stars": 15406
+                "stars": 15405
               }
             },
             {
@@ -1257,7 +1257,7 @@
                 "archived": false,
                 "id": 31547508,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T09:42:19Z",
+                "last_commit": "2026-08-22T06:22:27Z",
                 "owner": "mongodb-js",
                 "repo": "compass",
                 "stars": 1493
@@ -1287,10 +1287,10 @@
                 "archived": false,
                 "id": 960484071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T15:22:00Z",
+                "last_commit": "2026-08-21T23:07:04Z",
                 "owner": "mongodb-js",
                 "repo": "mongodb-mcp-server",
-                "stars": 1103
+                "stars": 1104
               }
             },
             {
@@ -1317,7 +1317,7 @@
                 "archived": false,
                 "id": 1253838600,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T09:29:47Z",
+                "last_commit": "2026-08-21T18:45:50Z",
                 "owner": "mqlens",
                 "repo": "mqlens-mongodb",
                 "stars": 46
@@ -1496,7 +1496,7 @@
                 "archived": false,
                 "id": 56446422,
                 "language": "Go",
-                "last_commit": "2026-08-21T09:40:44Z",
+                "last_commit": "2026-08-22T08:58:02Z",
                 "owner": "percona",
                 "repo": "pmm",
                 "stars": 1088
@@ -1563,10 +1563,10 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T09:39:02Z",
+                "last_commit": "2026-08-22T03:38:59Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57074
+                "stars": 57089
               }
             },
             {
@@ -1578,10 +1578,10 @@
                 "archived": false,
                 "id": 275993885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T06:58:34Z",
+                "last_commit": "2026-08-21T18:45:48Z",
                 "owner": "appsmithorg",
                 "repo": "appsmith",
-                "stars": 40713
+                "stars": 40719
               }
             },
             {
@@ -1593,10 +1593,10 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T09:35:55Z",
+                "last_commit": "2026-08-22T06:40:27Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40635
+                "stars": 40675
               }
             },
             {
@@ -1608,10 +1608,10 @@
                 "archived": false,
                 "id": 190729906,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T19:13:33Z",
+                "last_commit": "2026-08-21T14:39:47Z",
                 "owner": "Budibase",
                 "repo": "budibase",
-                "stars": 28227
+                "stars": 28231
               }
             },
             {
@@ -1645,7 +1645,7 @@
                 "archived": false,
                 "id": 212473529,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T00:23:14Z",
+                "last_commit": "2026-08-22T00:21:50Z",
                 "owner": "mongodb-js",
                 "repo": "mongosh",
                 "stars": 396
@@ -1660,7 +1660,7 @@
                 "archived": false,
                 "id": 236735050,
                 "language": "Go",
-                "last_commit": "2026-08-21T08:44:07Z",
+                "last_commit": "2026-08-21T15:52:42Z",
                 "owner": "mongodb",
                 "repo": "mongodb-atlas-cli",
                 "stars": 186
@@ -1682,7 +1682,7 @@
                 "archived": false,
                 "id": 4117355,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T02:54:12Z",
+                "last_commit": "2026-08-21T22:14:33Z",
                 "owner": "mongo-express",
                 "repo": "mongo-express",
                 "stars": 5983
@@ -1700,7 +1700,7 @@
                 "last_commit": "2024-07-27T11:12:36Z",
                 "owner": "mrvautin",
                 "repo": "adminMongo",
-                "stars": 3853
+                "stars": 3852
               }
             },
             {
@@ -1712,7 +1712,7 @@
                 "archived": false,
                 "id": 121015963,
                 "language": "Svelte",
-                "last_commit": "2026-08-03T21:48:29Z",
+                "last_commit": "2026-08-21T12:44:29Z",
                 "owner": "huggingface",
                 "repo": "Mongoku",
                 "stars": 1419
@@ -1730,7 +1730,7 @@
                 "last_commit": "2019-05-31T11:54:32Z",
                 "owner": "iwind",
                 "repo": "rockmongo",
-                "stars": 1036
+                "stars": 1037
               }
             },
             {
@@ -1768,10 +1768,10 @@
             "archived": false,
             "id": 9603889,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T03:24:31Z",
+            "last_commit": "2026-08-22T09:10:39Z",
             "owner": "NodeBB",
             "repo": "NodeBB",
-            "stars": 15200
+            "stars": 15201
           }
         },
         {
@@ -1813,10 +1813,10 @@
             "archived": false,
             "id": 15193430,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T07:36:30Z",
+            "last_commit": "2026-08-21T13:22:05Z",
             "owner": "codecombat",
             "repo": "codecombat",
-            "stars": 8547
+            "stars": 8546
           }
         },
         {
@@ -1828,10 +1828,10 @@
             "archived": false,
             "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T01:22:54Z",
+            "last_commit": "2026-08-21T19:28:12Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5888
+            "stars": 5889
           }
         },
         {
@@ -1846,7 +1846,7 @@
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4500
+            "stars": 4501
           }
         },
         {
@@ -1858,7 +1858,7 @@
             "archived": false,
             "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-20T12:08:19Z",
+            "last_commit": "2026-08-22T00:14:17Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4271
@@ -1888,7 +1888,7 @@
             "archived": false,
             "id": 84003203,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T07:55:50Z",
+            "last_commit": "2026-08-21T10:09:06Z",
             "owner": "zone-eu",
             "repo": "wildduck",
             "stars": 2109
@@ -1906,7 +1906,7 @@
             "last_commit": "2021-08-25T14:50:10Z",
             "owner": "grandnode",
             "repo": "grandnode",
-            "stars": 1896
+            "stars": 1895
           }
         },
         {
@@ -1936,7 +1936,7 @@
             "last_commit": "2026-07-13T12:28:53Z",
             "owner": "aelassas",
             "repo": "bookcars",
-            "stars": 626
+            "stars": 625
           }
         },
         {
@@ -1951,7 +1951,7 @@
             "last_commit": "2026-03-05T18:12:51Z",
             "owner": "jonradoff",
             "repo": "lastsaas",
-            "stars": 158
+            "stars": 159
           }
         }
       ],
@@ -1959,7 +1959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:42:26.740Z",
+    "last_updated": "2026-08-22T09:32:14.834Z",
     "original_repository": "ramnes/awesome-mongodb",
     "original_repository_id": 52230198,
     "original_repository_sha": "655c499612284edc10cdc2e56271b476c7ae7481",
