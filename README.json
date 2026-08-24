@@ -7,6 +7,144 @@
           "children": [
             {
               "node_type": "item",
+              "title": "The Little MongoDB Book",
+              "description": "Basic introduction",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 500955714,
+                "language": "TeX",
+                "last_commit": "2024-09-18T15:29:38Z",
+                "owner": "mongodb-developer",
+                "repo": "the-little-mongodb-book",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sharded Cluster with Docker Compose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198724588,
+                "language": "Shell",
+                "last_commit": "2025-05-23T18:37:56Z",
+                "owner": "minhhungit",
+                "repo": "mongodb-cluster-docker-compose",
+                "stars": 559
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MongoDB source code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108110,
+                "language": "C++",
+                "last_commit": "2026-08-24T11:46:48Z",
+                "owner": "mongodb",
+                "repo": "mongo",
+                "stars": 28503
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "More"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ballerina-mongodb",
+              "description": "Official Ballerina driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108358462,
+                "language": "Ballerina",
+                "last_commit": "2026-05-04T05:07:01Z",
+                "owner": "ballerina-platform",
+                "repo": "module-ballerinax-mongodb",
+                "stars": 122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ballerina"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-c-driver",
+              "description": "Official C driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9735077,
+                "language": "C",
+                "last_commit": "2026-08-21T18:48:57Z",
+                "owner": "mongodb",
+                "repo": "mongo-c-driver",
+                "stars": 880
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo-cxx-driver",
+              "description": "Official C++ driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15881868,
+                "language": "C++",
+                "last_commit": "2026-08-20T20:43:15Z",
+                "owner": "mongodb",
+                "repo": "mongo-cxx-driver",
+                "stars": 1105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "mongo-csharp-driver",
               "description": "Official C# driver",
               "children": [],
@@ -69,6 +207,28 @@
           "description": null,
           "node_type": "group",
           "title": "C#/.NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongo_dart",
+              "description": "Community Dart driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4480254,
+                "language": "Dart",
+                "last_commit": "2026-07-11T09:34:51Z",
+                "owner": "mongo-dart",
+                "repo": "mongo_dart",
+                "stars": 456
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart"
         },
         {
           "children": [
@@ -163,6 +323,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mongodb-erlang",
+              "description": "Community Erlang driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3034911,
+                "language": "Erlang",
+                "last_commit": "2026-08-05T12:59:15Z",
+                "owner": "comtihon",
+                "repo": "mongodb-erlang",
+                "stars": 349
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Erlang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "mongo-go-driver",
               "description": "Official Go driver",
               "children": [],
@@ -225,6 +407,28 @@
           "description": null,
           "node_type": "group",
           "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mongodb",
+              "description": "Community Haskell driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20500064,
+                "language": "Haskell",
+                "last_commit": "2024-06-14T16:10:14Z",
+                "owner": "mongodb-haskell",
+                "repo": "mongodb",
+                "stars": 170
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haskell"
         },
         {
           "children": [
@@ -327,7 +531,7 @@
                 "archived": false,
                 "id": 5003275,
                 "language": "Java",
-                "last_commit": "2026-08-23T21:12:59Z",
+                "last_commit": "2026-08-24T12:10:25Z",
                 "owner": "sboesebeck",
                 "repo": "morphium",
                 "stars": 63
@@ -349,10 +553,10 @@
                 "archived": false,
                 "id": 3214406,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T02:21:05Z",
+                "last_commit": "2026-08-24T12:17:28Z",
                 "owner": "meteor",
                 "repo": "meteor",
-                "stars": 44811
+                "stars": 44812
               }
             },
             {
@@ -397,7 +601,7 @@
                 "last_commit": "2026-08-24T03:08:02Z",
                 "owner": "stalniy",
                 "repo": "casl",
-                "stars": 7048
+                "stars": 7049
               }
             },
             {
@@ -596,6 +800,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cl-mongo",
+              "description": "Community Common Lisp interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473477,
+                "language": "Common Lisp",
+                "last_commit": "2022-02-05T03:49:00Z",
+                "owner": "fons",
+                "repo": "cl-mongo",
+                "stars": 145
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lisp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "laravel-mongodb",
               "description": "Official Eloquent model and query builder for Laravel",
               "children": [],
@@ -703,6 +929,28 @@
           "description": null,
           "node_type": "group",
           "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mdbc",
+              "description": "MongoDB cmdlets for PowerShell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2360909,
+                "language": "PowerShell",
+                "last_commit": "2026-01-15T02:01:57Z",
+                "owner": "nightroman",
+                "repo": "Mdbc",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PowerShell"
         },
         {
           "children": [
@@ -924,6 +1172,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mongodb-rust-driver",
+              "description": "Official Rust driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184148355,
+                "language": "Rust",
+                "last_commit": "2026-08-24T09:17:48Z",
+                "owner": "mongodb",
+                "repo": "mongo-rust-driver",
+                "stars": 1518
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "driver-scala",
               "description": "Official Scala driver",
               "children": [],
@@ -971,6 +1241,28 @@
           "description": null,
           "node_type": "group",
           "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MongoTalk",
+              "description": "Community Smalltalk driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60769462,
+                "language": "Smalltalk",
+                "last_commit": "2026-01-21T21:51:43Z",
+                "owner": "pharo-nosql",
+                "repo": "mongotalk",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smalltalk"
         },
         {
           "children": [
@@ -1257,7 +1549,7 @@
                 "archived": false,
                 "id": 31547508,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:52:36Z",
+                "last_commit": "2026-08-24T13:53:28Z",
                 "owner": "mongodb-js",
                 "repo": "compass",
                 "stars": 1494
@@ -1287,7 +1579,7 @@
                 "archived": false,
                 "id": 960484071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:47:36Z",
+                "last_commit": "2026-08-24T13:58:13Z",
                 "owner": "mongodb-js",
                 "repo": "mongodb-mcp-server",
                 "stars": 1106
@@ -1384,7 +1676,7 @@
                 "archived": false,
                 "id": 226428378,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T07:30:25Z",
+                "last_commit": "2026-08-24T12:54:02Z",
                 "owner": "mongodb-js",
                 "repo": "vscode",
                 "stars": 361
@@ -1496,7 +1788,7 @@
                 "archived": false,
                 "id": 56446422,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:51:04Z",
+                "last_commit": "2026-08-24T13:33:04Z",
                 "owner": "percona",
                 "repo": "pmm",
                 "stars": 1090
@@ -1563,10 +1855,10 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:24:05Z",
+                "last_commit": "2026-08-24T14:01:42Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57109
+                "stars": 57113
               }
             },
             {
@@ -1578,10 +1870,10 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T09:50:24Z",
+                "last_commit": "2026-08-24T13:56:46Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40741
+                "stars": 40746
               }
             },
             {
@@ -1593,10 +1885,10 @@
                 "archived": false,
                 "id": 275993885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:12:59Z",
+                "last_commit": "2026-08-24T10:59:41Z",
                 "owner": "appsmithorg",
                 "repo": "appsmith",
-                "stars": 40730
+                "stars": 40733
               }
             },
             {
@@ -1608,10 +1900,10 @@
                 "archived": false,
                 "id": 190729906,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:49:52Z",
+                "last_commit": "2026-08-24T13:57:09Z",
                 "owner": "Budibase",
                 "repo": "budibase",
-                "stars": 28242
+                "stars": 28243
               }
             },
             {
@@ -1645,7 +1937,7 @@
                 "archived": false,
                 "id": 212473529,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T00:23:17Z",
+                "last_commit": "2026-08-24T12:31:54Z",
                 "owner": "mongodb-js",
                 "repo": "mongosh",
                 "stars": 396
@@ -1685,7 +1977,7 @@
                 "last_commit": "2026-08-23T20:48:02Z",
                 "owner": "mongo-express",
                 "repo": "mongo-express",
-                "stars": 5982
+                "stars": 5983
               }
             },
             {
@@ -1768,10 +2060,10 @@
             "archived": false,
             "id": 9603889,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T03:32:41Z",
+            "last_commit": "2026-08-24T12:42:21Z",
             "owner": "NodeBB",
             "repo": "NodeBB",
-            "stars": 15204
+            "stars": 15203
           }
         },
         {
@@ -1846,7 +2138,7 @@
             "last_commit": "2025-03-21T18:07:06Z",
             "owner": "async-labs",
             "repo": "saas",
-            "stars": 4502
+            "stars": 4503
           }
         },
         {
@@ -1858,7 +2150,7 @@
             "archived": false,
             "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-22T00:14:17Z",
+            "last_commit": "2026-08-24T10:43:13Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4271
@@ -1888,7 +2180,7 @@
             "archived": false,
             "id": 84003203,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T07:27:52Z",
+            "last_commit": "2026-08-24T11:46:19Z",
             "owner": "zone-eu",
             "repo": "wildduck",
             "stars": 2109
@@ -1959,7 +2251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:54:04.557Z",
+    "last_updated": "2026-08-24T14:01:58.798Z",
     "original_repository": "ramnes/awesome-mongodb",
     "original_repository_id": 52230198,
     "original_repository_sha": "655c499612284edc10cdc2e56271b476c7ae7481",
