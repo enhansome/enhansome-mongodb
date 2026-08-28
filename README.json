@@ -18,7 +18,8 @@
                 "owner": "mongodb-developer",
                 "repo": "the-little-mongodb-book",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "minhhungit",
                 "repo": "mongodb-cluster-docker-compose",
                 "stars": 560
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -58,11 +60,12 @@
                 "archived": false,
                 "id": 108110,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:25:57Z",
+                "last_commit": "2026-08-28T20:13:27Z",
                 "owner": "mongodb",
                 "repo": "mongo",
-                "stars": 28510
-              }
+                "stars": 28513
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -90,7 +93,8 @@
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-mongodb",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -108,11 +112,12 @@
                 "archived": false,
                 "id": 9735077,
                 "language": "C",
-                "last_commit": "2026-08-27T19:17:47Z",
+                "last_commit": "2026-08-28T12:03:55Z",
                 "owner": "mongodb",
                 "repo": "mongo-c-driver",
                 "stars": 880
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -130,11 +135,12 @@
                 "archived": false,
                 "id": 15881868,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:06:49Z",
+                "last_commit": "2026-08-27T20:02:04Z",
                 "owner": "mongodb",
                 "repo": "mongo-cxx-driver",
                 "stars": 1106
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -152,11 +158,12 @@
                 "archived": false,
                 "id": 699689,
                 "language": "C#",
-                "last_commit": "2026-08-27T16:31:23Z",
+                "last_commit": "2026-08-28T19:50:23Z",
                 "owner": "mongodb",
                 "repo": "mongo-csharp-driver",
                 "stars": 3241
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -171,7 +178,8 @@
                 "owner": "robinrodricks",
                 "repo": "FluentStorage",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -186,7 +194,8 @@
                 "owner": "mongodb",
                 "repo": "mongo-efcore-provider",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -201,7 +210,8 @@
                 "owner": "RobThree",
                 "repo": "MongoRepository",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -223,7 +233,8 @@
                 "owner": "mongo-dart",
                 "repo": "mongo_dart",
                 "stars": 456
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -245,7 +256,8 @@
                 "owner": "MagicFoundation",
                 "repo": "Alcinoe",
                 "stars": 1125
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -260,7 +272,8 @@
                 "owner": "stijnsanders",
                 "repo": "TMongoWire",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -282,7 +295,8 @@
                 "owner": "elixir-mongo",
                 "repo": "mongodb",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -297,7 +311,8 @@
                 "owner": "elixir-mongo",
                 "repo": "mongodb_ecto",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -312,7 +327,8 @@
                 "owner": "zookzook",
                 "repo": "elixir-mongodb-driver",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -334,7 +350,8 @@
                 "owner": "comtihon",
                 "repo": "mongodb-erlang",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -352,11 +369,12 @@
                 "archived": false,
                 "id": 81355383,
                 "language": "Go",
-                "last_commit": "2026-08-27T15:10:52Z",
+                "last_commit": "2026-08-28T13:52:50Z",
                 "owner": "mongodb",
                 "repo": "mongo-go-driver",
-                "stars": 8538
-              }
+                "stars": 8539
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -371,7 +389,8 @@
                 "owner": "globalsign",
                 "repo": "mgo",
                 "stars": 1960
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -386,7 +405,8 @@
                 "owner": "go-bongo",
                 "repo": "bongo",
                 "stars": 490
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -401,7 +421,8 @@
                 "owner": "kyle-williams-1",
                 "repo": "bsonic",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -423,7 +444,8 @@
                 "owner": "mongodb-haskell",
                 "repo": "mongodb",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -441,11 +463,12 @@
                 "archived": false,
                 "id": 108050,
                 "language": "Java",
-                "last_commit": "2026-08-27T18:39:31Z",
+                "last_commit": "2026-08-28T19:09:16Z",
                 "owner": "mongodb",
                 "repo": "mongo-java-driver",
-                "stars": 2659
-              }
+                "stars": 2660
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -460,7 +483,8 @@
                 "owner": "spring-projects",
                 "repo": "spring-data-mongodb",
                 "stars": 1686
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -471,11 +495,12 @@
                 "archived": false,
                 "id": 9677593,
                 "language": "Java",
-                "last_commit": "2026-08-22T19:50:26Z",
+                "last_commit": "2026-08-28T10:01:00Z",
                 "owner": "MorphiaOrg",
                 "repo": "morphia",
-                "stars": 1675
-              }
+                "stars": 1676
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -490,7 +515,8 @@
                 "owner": "bguerout",
                 "repo": "jongo",
                 "stars": 586
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -505,7 +531,8 @@
                 "owner": "hibernate",
                 "repo": "hibernate-ogm",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -520,7 +547,8 @@
                 "owner": "mongojack",
                 "repo": "mongojack",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -531,11 +559,12 @@
                 "archived": false,
                 "id": 5003275,
                 "language": "Java",
-                "last_commit": "2026-08-27T14:38:55Z",
+                "last_commit": "2026-08-28T07:25:25Z",
                 "owner": "sboesebeck",
                 "repo": "morphium",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -553,11 +582,12 @@
                 "archived": false,
                 "id": 3214406,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T19:43:01Z",
+                "last_commit": "2026-08-28T19:46:44Z",
                 "owner": "meteor",
                 "repo": "meteor",
                 "stars": 44813
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -568,11 +598,12 @@
                 "archived": false,
                 "id": 597879,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T19:30:41Z",
+                "last_commit": "2026-08-28T18:53:22Z",
                 "owner": "Automattic",
                 "repo": "mongoose",
-                "stars": 27476
-              }
+                "stars": 27477
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -583,11 +614,12 @@
                 "archived": false,
                 "id": 462292,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T18:55:42Z",
+                "last_commit": "2026-08-28T19:26:41Z",
                 "owner": "mongodb",
                 "repo": "node-mongodb-native",
-                "stars": 10177
-              }
+                "stars": 10179
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -601,8 +633,9 @@
                 "last_commit": "2026-08-26T00:28:51Z",
                 "owner": "stalniy",
                 "repo": "casl",
-                "stars": 7056
-              }
+                "stars": 7062
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -617,7 +650,8 @@
                 "owner": "Hashnode",
                 "repo": "mern-starter",
                 "stars": 5143
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -632,7 +666,8 @@
                 "owner": "meanjs",
                 "repo": "mean",
                 "stars": 4835
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -647,7 +682,8 @@
                 "owner": "typegoose",
                 "repo": "typegoose",
                 "stars": 2311
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -662,7 +698,8 @@
                 "owner": "jdesboeufs",
                 "repo": "connect-mongo",
                 "stars": 1972
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -677,7 +714,8 @@
                 "owner": "scottwrobinson",
                 "repo": "camo",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -692,7 +730,8 @@
                 "owner": "denodrivers",
                 "repo": "mongo",
                 "stars": 511
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -707,7 +746,8 @@
                 "owner": "neuledge",
                 "repo": "engine-js",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -722,7 +762,8 @@
                 "owner": "awapps",
                 "repo": "mongration",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -737,7 +778,8 @@
                 "owner": "monarch-orm",
                 "repo": "monarch",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -752,7 +794,8 @@
                 "owner": "morris",
                 "repo": "mongomq2",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -770,11 +813,12 @@
                 "archived": false,
                 "id": 108050,
                 "language": "Java",
-                "last_commit": "2026-08-27T18:39:31Z",
+                "last_commit": "2026-08-28T19:09:16Z",
                 "owner": "mongodb",
                 "repo": "mongo-java-driver",
-                "stars": 2659
-              }
+                "stars": 2660
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -789,7 +833,8 @@
                 "owner": "Litote",
                 "repo": "kmongo",
                 "stars": 768
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -811,7 +856,8 @@
                 "owner": "fons",
                 "repo": "cl-mongo",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -833,7 +879,8 @@
                 "owner": "mongodb",
                 "repo": "laravel-mongodb",
                 "stars": 7070
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -847,8 +894,9 @@
                 "last_commit": "2026-08-25T19:17:13Z",
                 "owner": "doctrine",
                 "repo": "mongodb-odm",
-                "stars": 1094
-              }
+                "stars": 1095
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -859,11 +907,12 @@
                 "archived": false,
                 "id": 19514152,
                 "language": "PHP",
-                "last_commit": "2026-08-27T19:00:16Z",
+                "last_commit": "2026-08-28T19:21:31Z",
                 "owner": "mongodb",
                 "repo": "mongo-php-driver",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -878,7 +927,8 @@
                 "owner": "alcaeus",
                 "repo": "mongo-php-adapter",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -893,7 +943,8 @@
                 "owner": "yiisoft",
                 "repo": "yii2-mongodb",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -908,7 +959,8 @@
                 "owner": "facile-it",
                 "repo": "mongodb-bundle",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -919,11 +971,12 @@
                 "archived": false,
                 "id": 664885839,
                 "language": "PHP",
-                "last_commit": "2026-07-15T15:53:24Z",
+                "last_commit": "2026-08-27T21:42:27Z",
                 "owner": "opentelemetry-php",
                 "repo": "contrib-auto-mongodb",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -945,7 +998,8 @@
                 "owner": "nightroman",
                 "repo": "Mdbc",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -963,11 +1017,12 @@
                 "archived": false,
                 "id": 108051,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:03:57Z",
+                "last_commit": "2026-08-28T18:23:00Z",
                 "owner": "mongodb",
                 "repo": "mongo-python-driver",
-                "stars": 4352
-              }
+                "stars": 4353
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -981,8 +1036,9 @@
                 "last_commit": "2026-08-24T09:42:30Z",
                 "owner": "MongoEngine",
                 "repo": "mongoengine",
-                "stars": 4348
-              }
+                "stars": 4349
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -996,8 +1052,9 @@
                 "last_commit": "2026-08-24T19:58:56Z",
                 "owner": "BeanieODM",
                 "repo": "beanie",
-                "stars": 2695
-              }
+                "stars": 2694
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1069,8 @@
                 "owner": "mongodb",
                 "repo": "motor",
                 "stars": 2526
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1085,8 @@
                 "owner": "doableware",
                 "repo": "djongo",
                 "stars": 1921
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1101,8 @@
                 "owner": "art049",
                 "repo": "odmantic",
                 "stars": 1175
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1057,7 +1117,8 @@
                 "owner": "twisted",
                 "repo": "txmongo",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1072,7 +1133,8 @@
                 "owner": "Refty",
                 "repo": "mongo-thingy",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1087,7 +1149,8 @@
                 "owner": "certego",
                 "repo": "AtlasQ",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1109,7 +1172,8 @@
                 "owner": "jeroen",
                 "repo": "mongolite",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1188,8 @@
                 "owner": "pbosetti",
                 "repo": "mdbplyr",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1146,7 +1211,8 @@
                 "owner": "mongodb",
                 "repo": "mongoid",
                 "stars": 3912
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1227,8 @@
                 "owner": "mongodb",
                 "repo": "mongo-ruby-driver",
                 "stars": 1431
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1183,7 +1250,8 @@
                 "owner": "mongodb",
                 "repo": "mongo-rust-driver",
                 "stars": 1518
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1201,11 +1269,12 @@
                 "archived": false,
                 "id": 108050,
                 "language": "Java",
-                "last_commit": "2026-08-27T18:39:31Z",
+                "last_commit": "2026-08-28T19:09:16Z",
                 "owner": "mongodb",
                 "repo": "mongo-java-driver",
-                "stars": 2659
-              }
+                "stars": 2660
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1220,7 +1289,8 @@
                 "owner": "ReactiveMongo",
                 "repo": "ReactiveMongo",
                 "stars": 857
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1235,7 +1305,8 @@
                 "owner": "Stratio",
                 "repo": "Spark-MongoDB",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1257,7 +1328,8 @@
                 "owner": "pharo-nosql",
                 "repo": "mongotalk",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1279,7 +1351,8 @@
                 "owner": "orlandos-nl",
                 "repo": "MongoKitten",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1294,7 +1367,8 @@
                 "owner": "mongodb",
                 "repo": "mongo-swift-driver",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1322,7 +1396,8 @@
                 "owner": "rueckstiess",
                 "repo": "mtools",
                 "stars": 1951
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1337,7 +1412,8 @@
                 "owner": "mdirolf",
                 "repo": "nginx-gridfs",
                 "stars": 786
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1352,7 +1428,8 @@
                 "owner": "stefanprodan",
                 "repo": "mgob",
                 "stars": 760
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1367,7 +1444,8 @@
                 "owner": "jwilder",
                 "repo": "mongodb-tools",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1382,7 +1460,8 @@
                 "owner": "mongolab",
                 "repo": "mongoctl",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "Services:",
@@ -1404,7 +1483,8 @@
                 "owner": "yougov",
                 "repo": "mongo-connector",
                 "stars": 1872
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1419,7 +1499,8 @@
                 "owner": "mongodb",
                 "repo": "mongo-hadoop",
                 "stars": 1552
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1434,7 +1515,8 @@
                 "owner": "EnterpriseDB",
                 "repo": "mongo_fdw",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1449,7 +1531,8 @@
                 "owner": "ozlerhakan",
                 "repo": "mongolastic",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "Services:",
@@ -1471,7 +1554,8 @@
                 "owner": "helm",
                 "repo": "charts",
                 "stars": 15406
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1486,7 +1570,8 @@
                 "owner": "edelight",
                 "repo": "chef-mongodb",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1501,7 +1586,8 @@
                 "owner": "UnderGreen",
                 "repo": "ansible-role-mongodb",
                 "stars": 348
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1516,7 +1602,8 @@
                 "owner": "voxpupuli",
                 "repo": "puppet-mongodb",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1538,7 +1625,8 @@
                 "owner": "jeromelebel",
                 "repo": "MongoHub-Mac",
                 "stars": 2416
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1549,11 +1637,12 @@
                 "archived": false,
                 "id": 31547508,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:13:00Z",
+                "last_commit": "2026-08-28T19:23:11Z",
                 "owner": "mongodb-js",
                 "repo": "compass",
                 "stars": 1494
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1567,8 +1656,9 @@
                 "last_commit": "2026-08-26T16:54:01Z",
                 "owner": "geek-fun",
                 "repo": "dockit",
-                "stars": 1137
-              }
+                "stars": 1136
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1579,11 +1669,12 @@
                 "archived": false,
                 "id": 960484071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:46:04Z",
+                "last_commit": "2026-08-28T14:52:07Z",
                 "owner": "mongodb-js",
                 "repo": "mongodb-mcp-server",
-                "stars": 1108
-              }
+                "stars": 1111
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1598,7 +1689,8 @@
                 "owner": "WebDB-App",
                 "repo": "app",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1609,11 +1701,12 @@
                 "archived": false,
                 "id": 1253838600,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:43:14Z",
+                "last_commit": "2026-08-28T20:43:01Z",
                 "owner": "mqlens",
                 "repo": "mqlens-mongodb",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "Services:",
@@ -1635,7 +1728,8 @@
                 "owner": "variety",
                 "repo": "variety",
                 "stars": 1763
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1650,7 +1744,8 @@
                 "owner": "seppevs",
                 "repo": "migrate-mongo",
                 "stars": 1030
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1665,7 +1760,8 @@
                 "owner": "pkosiec",
                 "repo": "mongo-seeding",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1680,7 +1776,8 @@
                 "owner": "mongodb-js",
                 "repo": "vscode",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1695,7 +1792,8 @@
                 "owner": "feliixx",
                 "repo": "mgodatagen",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1710,7 +1808,8 @@
                 "owner": "vincentrussell",
                 "repo": "sql-to-mongo-db-query-converter",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1725,7 +1824,8 @@
                 "owner": "feliixx",
                 "repo": "mongoplayground",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1740,7 +1840,8 @@
                 "owner": "mongoeye",
                 "repo": "mongoeye",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1755,7 +1856,8 @@
                 "owner": "argon-lab",
                 "repo": "argon",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1770,7 +1872,8 @@
                 "owner": "mongodb",
                 "repo": "mongo-csharp-analyzer",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "Services:",
@@ -1788,11 +1891,12 @@
                 "archived": false,
                 "id": 56446422,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:22:42Z",
+                "last_commit": "2026-08-28T20:40:41Z",
                 "owner": "percona",
                 "repo": "pmm",
                 "stars": 1093
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1807,7 +1911,8 @@
                 "owner": "mzupan",
                 "repo": "nagios-plugin-mongodb",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1822,7 +1927,8 @@
                 "owner": "mrsarm",
                 "repo": "mongotail",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1837,7 +1943,8 @@
                 "owner": "erh",
                 "repo": "mongo-munin",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "Services:",
@@ -1855,11 +1962,12 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:21:41Z",
+                "last_commit": "2026-08-28T19:05:04Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57138
-              }
+                "stars": 57156
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1870,11 +1978,12 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T15:41:18Z",
+                "last_commit": "2026-08-28T20:33:13Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40784
-              }
+                "stars": 40787
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1885,11 +1994,12 @@
                 "archived": false,
                 "id": 275993885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:50:37Z",
+                "last_commit": "2026-08-28T19:17:40Z",
                 "owner": "appsmithorg",
                 "repo": "appsmith",
-                "stars": 40762
-              }
+                "stars": 40778
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1900,11 +2010,12 @@
                 "archived": false,
                 "id": 190729906,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:05:10Z",
+                "last_commit": "2026-08-28T11:42:24Z",
                 "owner": "Budibase",
                 "repo": "budibase",
-                "stars": 28245
-              }
+                "stars": 28246
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1919,7 +2030,8 @@
                 "owner": "illacloud",
                 "repo": "illa-builder",
                 "stars": 12312
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "💡 These tools are not necessarily made for MongoDB in particular, but support it.\nServices:",
@@ -1941,7 +2053,8 @@
                 "owner": "mongodb-js",
                 "repo": "mongosh",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1952,11 +2065,12 @@
                 "archived": false,
                 "id": 236735050,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:27:38Z",
+                "last_commit": "2026-08-28T16:22:22Z",
                 "owner": "mongodb",
                 "repo": "mongodb-atlas-cli",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": null,
@@ -1974,11 +2088,12 @@
                 "archived": false,
                 "id": 4117355,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T13:12:17Z",
+                "last_commit": "2026-08-28T06:34:56Z",
                 "owner": "mongo-express",
                 "repo": "mongo-express",
-                "stars": 5986
-              }
+                "stars": 5984
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -1993,7 +2108,8 @@
                 "owner": "mrvautin",
                 "repo": "adminMongo",
                 "stars": 3852
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -2008,7 +2124,8 @@
                 "owner": "huggingface",
                 "repo": "Mongoku",
                 "stars": 1419
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -2023,7 +2140,8 @@
                 "owner": "iwind",
                 "repo": "rockmongo",
                 "stars": 1037
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             },
             {
               "node_type": "item",
@@ -2038,7 +2156,8 @@
                 "owner": "thomasst",
                 "repo": "mongoadmin",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T20:47:24.844Z"
             }
           ],
           "description": "Services:",
@@ -2060,11 +2179,12 @@
             "archived": false,
             "id": 9603889,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:31:37Z",
+            "last_commit": "2026-08-28T20:46:17Z",
             "owner": "NodeBB",
             "repo": "NodeBB",
-            "stars": 15203
-          }
+            "stars": 15204
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2079,7 +2199,8 @@
             "owner": "reactioncommerce",
             "repo": "reaction",
             "stars": 12400
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2094,7 +2215,8 @@
             "owner": "leanote",
             "repo": "leanote",
             "stars": 11684
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2105,11 +2227,12 @@
             "archived": false,
             "id": 15193430,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:23:15Z",
+            "last_commit": "2026-08-28T11:42:09Z",
             "owner": "codecombat",
             "repo": "codecombat",
             "stars": 8551
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2120,11 +2243,12 @@
             "archived": false,
             "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T17:24:49Z",
+            "last_commit": "2026-08-28T13:53:58Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5893
-          }
+            "stars": 5894
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2139,7 +2263,8 @@
             "owner": "async-labs",
             "repo": "saas",
             "stars": 4502
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2150,11 +2275,12 @@
             "archived": false,
             "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-27T12:22:05Z",
+            "last_commit": "2026-08-28T11:30:09Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4271
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2169,7 +2295,8 @@
             "owner": "fzaninotto",
             "repo": "uptime",
             "stars": 3591
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2180,11 +2307,12 @@
             "archived": false,
             "id": 84003203,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:14:15Z",
+            "last_commit": "2026-08-28T11:25:16Z",
             "owner": "zone-eu",
             "repo": "wildduck",
-            "stars": 2110
-          }
+            "stars": 2111
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2199,7 +2327,8 @@
             "owner": "grandnode",
             "repo": "grandnode",
             "stars": 1894
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2214,7 +2343,8 @@
             "owner": "fictionco",
             "repo": "fiction",
             "stars": 1467
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2229,7 +2359,8 @@
             "owner": "aelassas",
             "repo": "bookcars",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2244,7 +2375,8 @@
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         },
         {
           "node_type": "item",
@@ -2259,14 +2391,15 @@
             "owner": "jonradoff",
             "repo": "lastsaas",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T20:47:24.844Z"
         }
       ],
       "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:43:21.446Z",
+    "last_updated": "2026-08-28T20:47:24.844Z",
     "original_repository_info": {
       "archived": false,
       "id": 52230198,
