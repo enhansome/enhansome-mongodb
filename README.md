@@ -6,7 +6,7 @@
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ## Table of Contents
 
@@ -133,7 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 ### Delphi
 
-* [Alcinoe](https://github.com/MagicFoundation/Alcinoe) ⭐ 1,125 | 🐛 32 | 🌐 Pascal | 📅 2026-08-21 - Library for Delphi that includes a MongoDB client
+* [Alcinoe](https://github.com/MagicFoundation/Alcinoe) ⭐ 1,125 | 🐛 33 | 🌐 Pascal | 📅 2026-08-21 - Library for Delphi that includes a MongoDB client
 * [TMongoWire](https://github.com/stijnsanders/TMongoWire) ⭐ 104 | 🐛 6 | 🌐 Pascal | 📅 2026-03-05 - Minimal community Delphi driver
 
 ### Elixir
@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 ### Go
 
-* [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) ⭐ 8,539 | 🐛 22 | 🌐 Go | 📅 2026-08-28 - Official Go driver
+* [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) ⭐ 8,538 | 🐛 23 | 🌐 Go | 📅 2026-08-28 - Official Go driver
 * [mgo](https://github.com/globalsign/mgo) ⭐ 1,960 | 🐛 64 | 🌐 Go | 📅 2021-10-29 - Community Go driver
 * [Bongo](https://github.com/go-bongo/bongo) ⭐ 490 | 🐛 14 | 🌐 Go | 📅 2021-01-01 - ODM based on mgo
 * [bsonic](https://github.com/kyle-williams-1/bsonic) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-02-22 - Parse Lucene-style query syntax into BSON filters for MongoDB
@@ -165,14 +165,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 * [Jongo](https://github.com/bguerout/jongo) ⭐ 586 | 🐛 10 | 🌐 Java | 📅 2026-02-25 - Query in Java as in Mongo shell
 * [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) ⚠️ Archived - The power and simplicity of JPA for NoSQL datastores
 * [Mongojack](https://github.com/mongojack/mongojack) ⭐ 277 | 🐛 55 | 🌐 Java | 📅 2026-05-03 - Based on Jackson, allows you to easily handle your mongo objects as POJOs
-* [Morphium](https://github.com/sboesebeck/morphium) ⭐ 63 | 🐛 34 | 🌐 Java | 📅 2026-08-28 - Java ODM and caching layer
+* [Morphium](https://github.com/sboesebeck/morphium) ⭐ 63 | 🐛 31 | 🌐 Java | 📅 2026-08-28 - Java ODM and caching layer
 
 ### JavaScript
 
-* [Meteor](https://github.com/meteor/meteor) ⭐ 44,813 | 🐛 358 | 🌐 JavaScript | 📅 2026-08-28 - Real-time/reactive client-server framework based on MongoDB, with lots of features
+* [Meteor](https://github.com/meteor/meteor) ⭐ 44,813 | 🐛 357 | 🌐 JavaScript | 📅 2026-08-29 - Real-time/reactive client-server framework based on MongoDB, with lots of features
 * [Mongoose](https://github.com/Automattic/mongoose) ⭐ 27,477 | 🐛 169 | 🌐 JavaScript | 📅 2026-08-28 - Node.js asynchronous ODM
 * [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) ⭐ 10,179 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-28 - Official Node.js driver
-* [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) ⭐ 7,062 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-26 - Permissions management library integrated with Mongoose
+* [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) ⭐ 7,063 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-26 - Permissions management library integrated with Mongoose
 * [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) ⭐ 5,143 | 🐛 57 | 🌐 JavaScript | 📅 2023-02-02 - Full stack based on MongoDB, Express, React and Node.js
 * [MEAN.JS](https://github.com/meanjs/mean) ⚠️ Archived - Full stack based on MongoDB, Express, AngularJS, and Node.js
 * [Typegoose](https://github.com/typegoose/typegoose) ⭐ 2,311 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-12 - Define Mongoose models using TypeScript classes
@@ -293,11 +293,11 @@ Services:
 ### Desktop
 
 * [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) ⭐ 2,416 | 🐛 87 | 🌐 Objective-C | 📅 2021-05-04 - Mac native client
-* [Compass](https://github.com/mongodb-js/compass) ⭐ 1,494 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-28 - Free Cross-platform GUI from MongoDB
+* [Compass](https://github.com/mongodb-js/compass) ⭐ 1,494 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-29 - Free Cross-platform GUI from MongoDB
 * [DocKit](https://github.com/geek-fun/dockit) ⭐ 1,136 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-26 - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
-* [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) ⭐ 1,111 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-28 - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
+* [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) ⭐ 1,111 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-28 - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
 * [WebDB](https://github.com/WebDB-App/app) ⭐ 332 | 🐛 25 | 🌐 TypeScript | 📅 2025-06-10 – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
-* [MQLens](https://github.com/mqlens/mqlens-mongodb) ⭐ 48 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-28 - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
+* [MQLens](https://github.com/mqlens/mqlens-mongodb) ⭐ 48 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-29 - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
 * [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
 
 Services:
@@ -345,9 +345,9 @@ Services:
 
 > 💡 These tools are not necessarily made for MongoDB in particular, but support it.
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,156 | 🐛 1,026 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Firebase alternative
-* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 40,787 | 🐛 1,169 | 🌐 JavaScript | 📅 2026-08-28 - Open-source Retool alternative
-* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,778 | 🐛 4,468 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Retool alternative
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,154 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-08-29 - Open-source Firebase alternative
+* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 40,787 | 🐛 1,170 | 🌐 JavaScript | 📅 2026-08-28 - Open-source Retool alternative
+* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,778 | 🐛 4,470 | 🌐 TypeScript | 📅 2026-08-29 - Open-source Retool alternative
 * [Budibase](https://github.com/Budibase/budibase) ⭐ 28,246 | 🐛 272 | 🌐 TypeScript | 📅 2026-08-28 - Open-source Retool alternative
 * [ILLA Builder](https://github.com/illacloud/illa-builder) ⭐ 12,312 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27 - Open-source Retool alternative
 
@@ -377,15 +377,15 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
-* [NodeBB](https://github.com/NodeBB/NodeBB) ⭐ 15,204 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-28 - Node.js based forum software ("built for the modern web")
+* [NodeBB](https://github.com/NodeBB/NodeBB) ⭐ 15,204 | 🐛 143 | 🌐 JavaScript | 📅 2026-08-29 - Node.js based forum software ("built for the modern web")
 * [Reaction](https://github.com/reactioncommerce/reaction) ⭐ 12,400 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-01 - Event-driven, real-time commerce platform built with ES6
-* [Leanote](https://github.com/leanote/leanote) ⭐ 11,684 | 🐛 518 | 🌐 JavaScript | 📅 2023-11-27 - Evernote clone built with Go
-* [CodeCombat](https://github.com/codecombat/codecombat) ⭐ 8,551 | 🐛 413 | 🌐 JavaScript | 📅 2026-08-28 - Multiplayer programming game for learning how to code
+* [Leanote](https://github.com/leanote/leanote) ⭐ 11,684 | 🐛 517 | 🌐 JavaScript | 📅 2023-11-27 - Evernote clone built with Go
+* [CodeCombat](https://github.com/codecombat/codecombat) ⭐ 8,552 | 🐛 413 | 🌐 JavaScript | 📅 2026-08-28 - Multiplayer programming game for learning how to code
 * [Countly](https://github.com/countly/countly-server) ⭐ 5,894 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-28 - Mobile & web analytics and marketing platform built with Node.js
 * [SaaS Boilerplate](https://github.com/async-labs/saas) ⭐ 4,502 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Boilerplate for SaaS products, built with TypeScript, React and Express
 * [Errbit](https://github.com/errbit/errbit) ⭐ 4,271 | 🐛 143 | 🌐 Ruby | 📅 2026-08-28 - A Ruby on Rails based tool for collecting and managing errors from other applications.
 * [uptime](https://github.com/fzaninotto/uptime) ⚠️ Archived - Remote monitoring application built with Node.js and Bootstrap
-* [WildDuck Mail Server](https://github.com/nodemailer/wildduck) ⭐ 2,111 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-28 - Scalable high availability email server that uses MongoDB for email storage
+* [WildDuck Mail Server](https://github.com/nodemailer/wildduck) ⭐ 2,110 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-28 - Scalable high availability email server that uses MongoDB for email storage
 * [GrandNode](https://github.com/grandnode/grandnode) ⚠️ Archived - Multi-platform e-commerce shopping cart built with ASP.NET
 * [FactorJS](https://github.com/fiction-com/factor) ⭐ 1,467 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-16 - JavaScript CMS built with Mongoose
 * [BookCars](https://github.com/aelassas/bookcars) ⭐ 627 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-13 - Cross-platform, customizable and cost-efficient car rental management application
@@ -400,4 +400,4 @@ To the extent possible under law, [Guillaume Gelin](https://github.com/ramnes) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
